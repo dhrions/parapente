@@ -13,7 +13,7 @@ Le but est de répondre aux questions suivantes :
 * Sur quel(s) créneau(x) horaire(s) ?
 * Dans quelles conditions ?
 
-=== Consulter la carte météo du pays
+=== Étudier la météo du pays
 
 Le but est de répondre à la question suivante : dans quelle région vais-je pouvoir voler tel(s) jour(s) ?
 
@@ -25,23 +25,25 @@ On peut répondre à la question « Dans quelle(s) zone(s) fait-il beau et quels
 
 image:./meteo-france1.jpg[]
 
-On peut répondre à la question « Quelle est la direction générale du vent dans le pays ? » en se rendant sur le site de https://meteofrance.com[Météo France] {cfs}.
+On peut répondre à la question « Quelle est la direction générale du vent dans le pays ? » en se rendant sur le site de https://meteofrance.com[Météo France] {cfs}. Dans le cas présent, il faudra se rendre sur https://meteo-parapente.com[Météo Parapente] pour en savoir plus (l'étude de la direction du vent dans la zone considérée est traitée _infra_).
 
 image:./meteo-france2.jpg[]
 
-=== Consulter la carte météo de la zone
+=== Étudier la météo de la zone considérée
 
 Le but est de répondre aux questions suivantes : 
 
-. Est-ce qu'il pleut ou pas ? Si oui, où et sur quels créneaux horaires ?
+. Est-ce qu'il pleut ou pas ? Si oui, où exactement et sur quels créneaux horaires ?
 . Quelle est la direction générale du vent dans la zone ?
 . Quels sites de vol vais-je étudier plus en profondeur ?
 
 Comment obtenir l'information ?
 
-En se rendant sur un site comme https://www.meteoblue.com/fr/meteo/semaine/talloires_france_2973480[Météo Blue]
+En se rendant sur un site comme https://www.meteoblue.com/fr/meteo/semaine/talloires_france_2973480[Météo Blue].
 
-==== Réponse à la première question
+==== Étude du temps dans la zone considérée
+
+===== Étude de la semaine
 
 image:meteoblue1.jpg[]
 
@@ -53,7 +55,7 @@ Dans l'image ci-dessus, on peut voir :
     * Il ne devrait pas pleuvoir.
     * Le vent vient du nord-ouest.
     * La force du vent est raisonnable (9 km/h).
-    * En première approche, la météo semble favorable à la pratique du parapente.
+    * *En première approche, la météo semble favorable à la pratique du parapente.*
 
 . Que le lundi :
 
@@ -61,7 +63,7 @@ Dans l'image ci-dessus, on peut voir :
     * Il pourrait pleuvoir.
     * Le vent vient du sud, ce qui pourrait renforcer la brise de vallée.
     * La force du vent est relativement importante (14 km/h).
-    * En première approche, la météo semble incertaine pour pratiquer le parapente. Il faut étudier plus finement la météo de ce jour-là.
+    * *En première approche, la météo semble incertaine pour pratiquer le parapente. Il faut étudier plus finement la météo de ce jour-là.*
 
 . Que le mardi :
 
@@ -69,9 +71,9 @@ Dans l'image ci-dessus, on peut voir :
     * Il devrait pleuvoir.
     * Le vent vient du sud-ouest.
     * La force du vent est importante (21 km/h).
-    * En première approche, la météo semble défavorable à la pratique du parapente.
+    * *En première approche, la météo semble défavorable à la pratique du parapente.*
 
-. Que le mercredi : la situation est similaire à lundi.
+. Que le mercredi : *la situation est similaire à lundi*.
 
 . Que le jeudi :
 
@@ -79,7 +81,7 @@ Dans l'image ci-dessus, on peut voir :
     * Il ne devrait pas pleuvoir.
     * Le vent vient du sud, ce qui pourrait renforcer la brise de vallée.
     * La force du vent est relativement importante (12 km/h).
-    * En première approche, la météo semble favorable à la pratique du parapente.
+    * *En première approche, la météo semble favorable à la pratique du parapente.*
 
 . Que le vendredi :
 
@@ -87,7 +89,7 @@ Dans l'image ci-dessus, on peut voir :
     * Il pourrait pleuvoir.
     * Le vent vient du sud-est.
     * La force du vent est raisonnable (10 km/h).
-    * En première approche, la météo semble plutôt favorable à la pratique du parapente. Toutefois, il faut étudier plus finement la météo de ce jour-là.
+    * *En première approche, la météo semble plutôt favorable à la pratique du parapente. Toutefois, il faut étudier plus finement la météo de ce jour-là.*
 
 . Que le samedi :
 
@@ -95,7 +97,9 @@ Dans l'image ci-dessus, on peut voir :
     * Il pourrait pleuvoir.
     * Le vent vient du nord, il pourrait aller à l'encontre de la brise de vallée.
     * La force du vent est raisonnable (10 km/h).
-    * En première approche, la météo semble plutôt favorable à la pratique du parapente. Toutefois, il faut étudier plus finement la météo de ce jour-là.
+    * *En première approche, la météo semble plutôt favorable à la pratique du parapente. Toutefois, il faut étudier plus finement la météo de ce jour-là.*
+
+===== Étude du lundi
 
 On étudie plus finement le lundi.
 
@@ -103,12 +107,15 @@ image:meteoblue-lundi.jpg[]
 
 On peut voir qu'il fait beau de 9 h à 18 h et que le mauvais temps que l'on avait précédemment noté ne se manifestera qu'après 18 h. Par ailleurs, si la force du vent semble relativement importante le matin, elle s'intensifie de plus en plus jusqu'à 18 h. On peut donc en conclure que le temps est plutôt favorable le lundi mais qu'il faudra se méfier de la force du vent. Il faudra consulter les prévisions de la force du vent la veille au soir ou le matin même.
 
+===== Étude du mardi
+
 On étudie plus finement le mardi.
 
 image:meteoblue-mardi.jpg[]
 
 On peut voir que le temps est couvert de 9 h à 18 h et qu'il devrait pleuvoir de 12 h à 15 h. Par ailleurs, les probabilités de précipitations sont au moins égales à 50 % de 9 h à 18 h, atteignant même 75 % de 12 h à 15 h. Par conséquent, on peut estimer que notre conclusion en première approche est confirmée : la météo du mardi ne sera pas favorable à la pratique du parapente. 
 
+===== Étude du mercredi
 
 On étudie plus finement le mercredi.
 
@@ -117,6 +124,8 @@ image:meteoblue-mercredi.jpg[]
 On peut voir que le temps est couvert de 9 h à 18 h et que le mauvais temps que l'on avait précédemment noté ne se manifestera qu'après 18 h. Par ailleurs, la force du vent semble rraisonnable, elle s'intensifie de plus en plus jusqu'à 18 h. On peut donc en conclure que le temps est plutôt favorable le mercredi.
 
 De même, on étudie le jeudi et le vendredi.
+
+===== Conclusions
 
 Par conséquent, on peut estimer que :
 
@@ -129,9 +138,9 @@ Par conséquent, on peut estimer que :
 
 On peut donc estimer qu'il est possible de voler 6 jours sur les 7 prochains jours.
 
-On peut donc décider de voler dans le bassin d'Annecy pendant ces 7 jours.
+*On peut donc décider de voler dans le bassin d'Annecy pendant ces 7 jours.*
 
-Il reste maintenant à choisir un site pour un jour précis.
+*Il reste maintenant à choisir un site pour un jour précis. On chosit arbitrairement le lundi.*
 
 ==== Détermination de la direction générale du vent
 
@@ -157,13 +166,13 @@ On voit donc que le vent vient du sud-est le matin, du sud à 12 h et du sud-oue
 
 Par conséquent, si l'on veut voler le matin, il vaut mieux choisir un lieu exposé au sud-est et si l'on veut voler l'après-midi, il vaut mieux choisir un lieu exposé au sud-ouest.
 
-==== Détermination d'un site de vol
+==== Choix de sites de vol à étudier
 
 Mettons que l'on veuille voler l'après-midi, il faut donc choisir un site exposé au sud-ouest. Pour cela, on peut se référer au https://carte.ffvl.fr/?mode=parapente[site de la FFVL].
 
 image:sites-ffvl-annecy.jpg[]
 
-=== Étudier un site de vol
+=== Étudier un ou plusieurs sites de vol
 
 Le but est de répondre aux questions suivantes :
 
