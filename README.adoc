@@ -119,6 +119,7 @@ On peut voir que le temps est couvert de 9 h à 18 h et que le mauvais temps que
 De même, on étudie le jeudi et le vendredi.
 
 Par conséquent, on peut estimer que :
+
 . Le temps est favorable à la pratique du parapente le dimanche.
 . Le temps est plutôt favorable à la pratique du parapente le lundi.
 . Le temps est défavorable à la pratique du parapente le mardi.
