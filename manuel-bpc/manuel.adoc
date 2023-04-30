@@ -1,0 +1,141 @@
+= Manuel de préparation au brevet de pilote confirmé
+// Document attributes
+:sectnums:
+:sectnumlevels: 2
+:toc:
+:toc-title: Table des matières
+// Variables
+:url-wiki: https://fr.wikipedia.org/wiki
+:PTV: poids total volant
+:FA: force aérodynamique
+
+== Questions ouvertes
+
+=== Mécanique du vol et aérodynamique
+
+==== Quelles vont être les conséquences, en termes de capacité de vol de votre aile, d’un gradient de vent à l’atterrissage (schéma et explications) ? Quels types de manœuvres éviterez-vous et mettrez-vous en place et pourquoi ?
+
+. Définition du gradient du vent à l’atterrissage
++
+C’est la variation graduelle de la vitesse du vent à proximité du sol.
+Le vent décroit à l’approche du sol.
+Le gradient est plus ou moins marqué en fonction de la nature du sol, et sa configuration.
+Le gradient apparait par vent fort et généralement sur un terrain dégagé.
+Un facteur favorisant le gradient : stabilité de la masse d’air.
++
+. Conséquence aérodynamique sur l’aile
++
+En approche du sol vent de face, le vent relatif va décroitre.
+Progressivement, la FA diminue et l’incidence augmente, il y a risque de décrochage.
+Par conséquent, l’aile va naturellement abattre pour reprendre de la vitesse et récupérer sa portance.
+
+
+==== Que pensez-vous de l’affirmation : « se lester diminue les risques de fermeture » ?
+
+. Conséquences sur le pilotage :
++
+* On pourrait réduire le risque de fermeture en adoptant un régime de vol lent, c'est-à-dire voler à
+incidence plus forte, mais ce n’est pas recommandé de voler aux basses vitesses, en atmosphère
+agitée.
+* Les modèles de voiles actuelles ont un rendement meilleur avec une charge alaire élevée.
+* PTV proche du maximum préconisé pour l’aile : vitesses sur trajectoires : plus élevées.
+Les tests de labellisation sont effectués aux PTV mini et maxi de la fourchette indiquée par le
+constructeur. La conséquence du choix d'une charge alaire est toujours un compromis.
+* Une charge alaire élevée présente un avantage en transition mais constitue un handicap en 304, 304
+. La vitesse préserve des fermetures faibles :
++
+Quand la charge alaire augmente, la polaire des vitesses subit un accroissement homothétique.
+Pour la même incidence, les vitesses croissent ainsi que la pression de l’air dans la voile. La
+structure devient plus solide (aile plus tendue) et moins sensible aux fermetures, contrairement à
+une voile moins chargée, plus molle et donc plus sensible aux fermetures.
++
+. Inconvénient sur fermeture plus forte :
++
+La fréquence des fermetures est plus faible, mais quand celles-ci se produisent, elles sont plus
+massives et surtout plus vives. La réouverture sera aussi plus vive*.
+
+=== Météorologie et aérologie
+
+=== Pilotage
+
+=== Réglementation aérienne
+
+== Rappels
+
+== Compléments
+
+== Suppléments
+
+== Glossaire
+
+Par ordre alphabétique :
+
+AGL:: _Above Ground Level_, au-dessus du sol.
+
+AMSL:: _Above Mean Sea Level_, au-dessus du niveau moyen de la mer.
+
+ASFC:: _Above Surface_, au-dessus du sol.
+
+Angle d'incidence:: Angle non orienté formé entre la corde et la direction du vent relatif.
+
+Assiette:: Angle non orienté formé entre la corde et l'horizontale.
+
+Bord d'attaque:: Section courbe à l'avant du profil, face au flux d'air.
+
+Charge alaire:: Rapport entre le poids total volant (PTV) et la surface de l'aile.
+
+Corde:: Segment de droite joignant le bord d'attaque au bord de fuite.
+
+Décrochage:: Perte de portance d’un avion ou d'une surface (aile, pale de rotor, voilier, etc.) due à un angle d'incidence trop important (cf. https://fr.wikipedia.org/wiki/D%C3%A9crochage_(a%C3%A9rodynamique)[Wikipédia]).
+
+Extrados:: Surface supérieure de l'aile
+
+Fermeture:: Déformation soudaine du profil souple de l'aile résultant d'un angle d'incidence trop faible qui ne permet pas de maintenir la surpression interne.
+
+Finale:: Phase de l'atterrissage qui suit la base et qui se termine par l'arrondi.
+
+Finesse:: Rapport entre la distance parcourue et le dénivelé perdu. Par conséquent, elle est égale au rapport entre la portance et la traînée et égal au rapport entre la vitesse horizontale (par rapport au sol) et la vitesse vitesser verticale (par rapport au sol).
+Force aérodynamique:: wet, cold dirt.
+
+GPS:: _Global Positioning System_, système de positionnement par satellites.
+
+CAUTION: _Stricto sensu_, parler d'*un* GPS est incorrect car il s'agit du système composé de plusieurs satellites.
+On devrait donc parler de « récepteur GPS ».
+Cependant, l'usage a consacré l'expression _un GPS_.
+Glonass est l'équivalent russe du GPS et Galileo son équivalent européen.
+
+Gradient:: Fonction de plusieurs variables en un certain point est un vecteur qui caractérise la variabilité de cette fonction au voisinage de ce point (cf. https://fr.wikipedia.org/wiki/Gradient[Wikipédia]).
+De manière simplifiée, le gradient est une mesure de la variation d'une grandeur par rapport à une autre. En parapente, il est souvent question de la variation de la vitesse du vent en fonction de l'altitude (il s'agit ici d'un gradient de vent) et de variation de la pression atmosphérique en fonction de l'altitude (il s'agit ici d'un gradient de pression).
+
+CAUTION: Le gradient de vent dont on parle le plus souvent est la variation de vitesse en fonction de l'altitude mais on pourrait tout aussi bien parler de gradient de vent pour une variation de vitesse à une altitude donnée en fonction de la distance au relief par exemple. En effet, entre le parapente et le relief, il y a une variation de vitesse en fonction de la distance au relief, on peut donc bien parler de gradient de vent.
+
+Intrados:: Surface inférieure de l'aile.
+
+LTE:: _Low Terrain Environnement_, environnement de basse altitude.
+
+Oreilles:: Technique de pilotage consistant à tirer sur certains élévateurs de l'aile pour diminuer la portance et augmenter la traînée.
+
+Poids total volant:: Somme des poids du parapente, de la sellette, du pilote et du reste de son matériel embarqué.
+
+CAUTION: Le terme de « poids » dans le langage courant correspond au terme scientifique de « masse ». Un objet de 10 kg a une masse de 10 kg et un poids de 98,1 N (10 kg x 9,81 m/s²). Une masse s'exprime en gramme (et tous ses multiples) et un poids en Newton (et tous ses multiples).
+
+Polaire des vitesses:: Courbe représentant la vitesse de l'aéronef en fonction de l'incidence.
+
+Portance:: Composante de la force subie par un corps en mouvement dans un fluide qui s'exerce perpendiculairement à la direction du mouvement (cf. https://fr.wikipedia.org/wiki/Portance[Wikipédia]).
+
+img::https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DeflectionAndLift_W3C.svg/langfr-304px-DeflectionAndLift_W3C.svg.png[Portance, 304, 304]
+
+RTBA:: _Restricted Terrain Below Altitude_, espace aérien dans lequel le vol est interdit en dessous d'une certaine altitude.
+
+Taux de chute:: Vitesse verticale de descente de l'aéronef.
+
+Traînée:: Composante de la force aérodynamique qui s'exerce dans le sens du vent relatif.
+
+Variomètre:: Instrument de mesure de la vitesse verticale d'un aéronef.
+
+ZIT:: _Zone Interdite Temporaire_, espace aérien dans lequel le vol est interdit pendant une certaine période.
+
+ZRT:: _Zone Réglementée Temporaire_, espace aérien dans lequel le vol est réglementé pendant une certaine période.
+
+[index]
+== Index
