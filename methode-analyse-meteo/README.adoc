@@ -308,12 +308,12 @@ Dans la suite de notre analyse, on sera donc vigilant à la survenue éventuelle
 
 ===== Étude du vent
 
-On peut voir sur Windy les zones du vent.
+On consulte Windy pour étudier le vent.
 
 image::windy-France-1500.png[]
 
-On peut voir que la moitié nord de la France est soumise à un vent de sud-ouest de 15 à 30 noeuds et donc d'environ 30 à 60 km/h alors que la moitié sud connaît des vents de 0 à 20 noeuds (et donc de 0 à 40 km/h).
-La zone d'Annecy semblent donc plutôt propice.
+On peut voir que la moitié nord de la France est soumise à un vent de sud-ouest de 15 à 30 noeuds (et donc d'environ 30 à 60 km/h) alors que la moitié sud connaît des vents de 0 à 20 noeuds (et donc de 0 à 40 km/h).
+La zone d'Annecy semble donc plutôt propice.
 Cela dit, on pourra voler plus haut, notamment vers 1500 m, il peut donc être judicieux de regarder les vents à cette altitude.
 
 image::windy-dimanche-1500.png[]
