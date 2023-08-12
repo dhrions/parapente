@@ -236,6 +236,7 @@ La direction du vent est également importante pendant le vol et à l'atterrissa
 === Analyse _a priori_
 
 L'analyse météo _a priori_ permet :
+
 - dans le cas où l'on est libre de ses mouvements et de son temps, d'optimiser ses chances de voler en se rendant au bon endroit (où), au bon moment (quand), avec les bonnes conditions de vol (comment) ;
 - dans le cas où l'on souhaite confirmer que l'on peut voler sur tel site précis à telle heure selon telles conditions, de calculer les chances que cette situation se produise.
 
