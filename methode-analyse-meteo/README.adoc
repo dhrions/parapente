@@ -437,7 +437,7 @@ C'est à force de prévoir et de préparer qu'on se rend capable d'improvisation
 
 Plus l'on vole loin, plus notre analyse météo _a priori_ aura dû porter sur un secteur large (2 dimensions).
 Plus l'on vole haut, plus notre analyse météo _a priori_ aura dû porter sur une altitude élevée (3 dimensions).
-Plus l'on vole longtemps, plus notre analyse météo _a priori_ aura dû porter sur une durée longue( « 4 » dimensions).
+Plus l'on vole longtemps, plus notre analyse météo _a priori_ aura dû porter sur une durée longue ( « 4 » dimensions).
 
 Les inconnues doivent être réduites au minimum.
 On doit avoir des points de vigilance (exemples : risque d'orages en fin de journée, changement de direction du vent).
