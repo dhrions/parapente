@@ -263,8 +263,8 @@ NOTE: à écrire.
 
 À la fin de cette étape, on sait donc :
 
-* Cas large : dans quelle pays on va aller voler (où), quel mois (quand) et dans quelles conditions ;
-* Cas étroit : si l'on a plus ou moins de chances de voler dans le pays étudié (où) durant tel mois (quand) et selon quelles conditions.
+* Cas large : dans quelle pays on va aller voler (où), quel mois (quand) et dans quelles conditions (comment) ;
+* Cas étroit : si l'on a plus ou moins de chances de voler dans le pays étudié (où) durant tel mois (quand) et selon quelles conditions (comment).
 
 Il convient maintenant de préciser le pays (où) et les semaines (quand) ainsi que d'affiner les conditions de vol (comment).
 
@@ -276,7 +276,7 @@ Pour rappel également, le but de l'analyse météo est de répondre aux questio
 À cette échelle, ces questions peuvent se décliner par l'une de ces deux questions suivantes :
 
 * Cas large : dans quelle région (où) vais-je pouvoir voler tel(s) jour(s) (quand) ? Quelles seront alors les conditions ?
-* SinCas étroit : vais-je pouvoir voler dans le secteur dans lequel je suis (où) tel jour à telle heure (quand) ? Quelles seront alors les conditions ?
+* Cas étroit : vais-je pouvoir voler dans le secteur dans lequel je suis (où) tel jour à telle heure (quand) ? Quelles seront alors les conditions ?
 
 Quand faire une analyse météo à cette échelle ?
 
