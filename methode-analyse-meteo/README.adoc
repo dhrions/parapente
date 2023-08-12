@@ -118,18 +118,18 @@ Une particule d'air décroît en température :
 * au contact d'une masse d'air plus froide (phénomène diabatique) ;
 * du simple fait de s'élever dans les airs car elle occupe  alors plus d'espace (phénomène adiabatique).
 
-Sans prendre en compte les phénomènes diabatiques, une particule d'air sèche décroît en température de 1°C tous les 100 m d'altitude tandis qu'une particul d'air saturée (dont le taux d'humidité est de 100 %) décroît en température de 0,6°C tous les 100 m d'altitude.
+Sans prendre en compte les phénomènes diabatiques, une particule d'air sèche décroît en température de 1° C tous les 100 m d'altitude tandis qu'une particul d'air saturée (dont le taux d'humidité est de 100 %) décroît en température de 0,6° C tous les 100 m d'altitude.
 
 Une masse d'air est considérée :
 
-* stable quand l'air se refroidit continuellement plus lentement que les
-adiabatique sèches et saturées (la température décroît de moins de 0,6°C tous les 100 m d'altitude) ;
-* conditionnellement instable quand l'air se refroidit continuellement plus rapidement que les adiabatiques sèches mais moins rapidement que les adiabatiques saturées (la température décroît entre 0,6°C et 1°C tous les 100 m d'altitude) ;
-* absolument instable quand l'air se refroidit continuellement plus rapidement que les adiabatiques saturées (la température décroît de plus de 1°C tous les 100 m d'altitude).
+* *stable* quand l'air se refroidit continuellement plus lentement que les
+adiabatique sèches et saturées (la température décroît de moins de 0,6° C tous les 100 m d'altitude) ;
+* *conditionnellement instable* quand l'air se refroidit continuellement plus rapidement que les adiabatiques sèches mais moins rapidement que les adiabatiques saturées (la température décroît entre 0,6° C et 1° C tous les 100 m d'altitude) ;
+* *absolument instable* quand l'air se refroidit continuellement plus rapidement que les adiabatiques saturées (la température décroît de plus de 1° C tous les 100 m d'altitude).
 
 Le mot continuellement est important ; en effet, si en s'élevant en altitude dans l'air, la température stagne voire croît sur quelques mètres, on dénombre alors trois masses d'air : celle où la température stagne voire croît (dans ce cas, on parle de couche d'inversion), celle au-dessus et celle en-dessous, où la température décroit.
 
-NOTE: On considère qu'une bulle d'air chaud se détache du sol lorsque sa température est supérieure de 3° C à celle de l'air ambiant.
+NOTE: On postule qu'une bulle d'air chaud se détache du sol lorsque sa température est supérieure de 3° C à celle de l'air ambiant.
 
 ===== Cas d'une masse d'air stable
 
@@ -150,12 +150,12 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 La couche convective (où l'air se déplace verticalement) est de 500 m de hauteur, entre la surface (500 m) et 1000 m d'altitude.
 Le plafond est donc situé à 1000 m d'altitude.
 
-===== Cas d'une masse d'air instable
+===== Cas d'une masse d'air conditionnellement instable
 
 Prenons le cas d'une masse d'air partant de de la surface (disons 500 m) jusqu'à 2000 m et dont la température décroît de manière constante à mesure qu'on s'y élève.
 Considérons que la température de cette masse d'air à la surface est de 20° C et de 0° C à 3000 m.
-La température décroit donc de 20 °C sur 2500 m, soit une moyenne de 0,8° C par 100 m (ou 8 °C par 1000 m).
-Cette masse d'air est donc instable.
+La température décroit donc de 20 ° C sur 2500 m, soit une moyenne de 0,8° C par 100 m (ou 8 ° C par 1000 m).
+Cette masse d'air est donc conditionnellement instable.
 
 Considérons une particule d'air chaud d'une température de 23° C à la surface.
 
@@ -177,14 +177,39 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 La couche convective (où l'air se déplace verticalement) est de 1300 m de hauteur, entre la surface (500 m) et 1800 m d'altitude.
 Le plafond est donc situé à 1800 m d'altitude.
 
-[NOTE]
-. Cas avec une couche d'inversion
-======
-Prenons la même situation à la différence prêt que la masse d'air s'arrête à 1500 m d'altitude.
-Au-dessus d'elle se trouve une masse d'air de 200 m d'altitude et où la témpérature croît de 0,1° C par 100 m.
+====== Cas d'une couche d'inversion bloquant la convection
+
+Prenons la même situation que précédemment à la différence prêt que la masse d'air s'arrête à 1200 m d'altitude.
+Au-dessus d'elle se trouve une masse d'air de 500 m d'altitude et où la témpérature croît de 0,1° C par 100 m.
 La température s'inverse dans cette masse d'air que l'on appelle alors une couche d'inversion.
-Dans ce cas, l'air va s'élever jusqu'à atteindre cette couche.
-======
+Dans ce cas, on peut reprendre notre étude à 1200 m :
+
+* 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,6° C) et va donc continuer à s'élever.
+On entre dans la couche d'inversion, la température de l'air ambiant va maintenant augmenter de 0,1° C tous les 100 m.
+* 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (14,7° C) et va donc continuer à s'élever.
+* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus _froide_ (14° C) que l'air ambiant (14,8° C).
+
+Par conséquent, la particule d'air chaud va arrêter de monter entre 1400 et 1500 m d'altitude et va se mélanger à la masse d'air.
+
+====== Cas d'une couche d'inversion ne bloquant pas la convection
+
+Prenons la même situation que précédemment à la différence prêt que la couche d'inversion ne mesure que 100 m d'altitude.
+
+Dans ce cas, on peut reprendre notre étude à 1200 m :
+
+* 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,6° C) et va donc continuer à s'élever.
+On entre dans la couche d'inversion, la température de l'air ambiant va maintenant augmenter de 0,1° C sur 100 m.
+* 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (14,7° C) et va donc continuer à s'élever.
+La particule d'air a traversé la couche d'inversion.
+La température de l'air ambiant décroît à nouveau de 0,8° C tous les 100 m.
+* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus chaude (14° C) que l'air ambiant (13,9° C) et va donc continuer à s'élever.
+* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus _froide_ (13° C) que l'air ambiant (13,1° C).
+
+Par conséquent, la particule d'air chaud va arrêter de monter entre 1500 et 1600 m d'altitude et va se mélanger à la masse d'air.
+
+Dans ce cas, la couche d'inversion n'a pas bloqué la convection.
+Le plafond est situé plus haut que la couche d'inversion.
+Voilà notamment la raison pour laquelle on parle d'instabilité conditionnelle : en fonction des conditions, l'instabilité peut être bloquée ou non.
 
 ==== Le vent
 
