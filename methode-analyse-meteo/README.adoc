@@ -456,7 +456,7 @@ Si l'on fait la même analyse à :
 On peut donc en déduire que l'instabilité s'installera entre 8 h et 11 h et disparaîtra entre 20 et 23 h.
 La journée de dimanche est donc propice aux vols thermiques.
 
-En faisant la même analyse pour lundi, on peut en déduire que la journée de lundi est également propice aux vols thermiques (avec une apparation et une disparition de l'instabilité aux mêmes créneaux horaires que dimanches).
+En faisant la même analyse pour lundi, on peut en déduire que la journée de lundi est également propice aux vols thermiques (avec une apparation et une disparition de l'instabilité aux mêmes créneaux horaires que dimancheOrtho).
 
 ===== Conclusions
 
