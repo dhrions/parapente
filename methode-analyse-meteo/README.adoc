@@ -209,7 +209,7 @@ On entre dans la couche d'inversion, la température de l'air ambiant va mainten
 La particule d'air a traversé la couche d'inversion.
 La température de l'air ambiant décroît à nouveau de 0,8° C tous les 100 m.
 * 100 m plus haut (1400 m d'altitude), cette particule d'air est plus chaude (14° C) que l'air ambiant (13,9° C) et va donc continuer à s'élever.
-* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus _froide_ (13° C) que l'air ambiant (13,1° C).
+* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus +froide+ (13° C) que l'air ambiant (13,1° C).
 
 Par conséquent, la particule d'air chaud va arrêter de monter entre 1500 et 1600 m d'altitude et va se mélanger à la masse d'air.
 
