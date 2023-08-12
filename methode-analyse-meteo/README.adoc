@@ -288,20 +288,102 @@ Quand faire une analyse météo à cette échelle ?
 ===== Étude des anticyclones et dépressions
 
 On se rend sur https://www.windy.com[Windy] pour savoir où sont localisés les anticyclones et les dépressions en France ainsi qu'à proximité.
-On vérifiera également la présence de marais barométriques.
+On vérifie également la présence de marais barométriques.
 Les anticyclones sont plutôt favorable à la pratique du parapente alors que la présence de dépression ou de marais barométrique sont plutôt défavorables.
+
+Considérons que l'on cherche à voler dans la région d'Annecy.
+On se rend sur https://www.windy.com[Windy] et on sélectionne la France.
+
+image::windy-France.png[]
+
+Les vents semblent former un cercle tournant dans le sens anti-horaire au nord-ouest de l'Irlande, ce qui pourrait correspondre à une dépression, et un autre tournant dans le sens inverse à l'ouest de l'Espagne, ce qui pourrait correspondre à un anticyclone.
+
+Si l'on dézoome, on peut voir plus clairement la dépression et l'anticyclone.
+
+image::windy-depresssion-anticyclone.png[]
+
+On peut voir que la région d'Annecy semble n'être sous l'influence d'acune dépression et d'aucun anticyclone.
+Cela pourrait correspondre, en revanche, à un marais barométrique.
+Dans la suite de notre analyse, on sera donc vigilant à la survenue éventuelle d'orages.
 
 ===== Étude du vent
 
-Cela nous donne également la force et la direction du vent à l'échelle du pays.
+On peut voir sur Windy les zones du vent.
 
-===== Étude des précipitations
+image::windy-France-1500.png[]
 
-Windy.
+On peut voir que la moitié nord de la France est soumise à un vent de sud-ouest de 15 à 30 noeuds et donc d'environ 30 à 60 km/h alors que la moitié sud connaît des vents de 0 à 20 noeuds (et donc de 0 à 40 km/h).
+La zone d'Annecy semblent donc plutôt propice.
+Cela dit, on pourra voler plus haut, notamment vers 1500 m, il peut donc être judicieux de regarder les vents à cette altitude.
+
+image::windy-dimanche-1500.png[]
+
+Le vent semble être entre 0 et 20 noeuds.
+
+image::windy-lundi-1500.png[]
+
+Lundi, le vent semble accélérer fortement.
+
+image::windy-mardi-1500.png[]
+
+Mardi, le vent semble décélérer.
+
+image::windy-mercredi-1500.png[]
+
+La tendance semble se poursuivre mercredi.
+
+Le vent fort que l'on observe lundi est bien localisé au niveau de Lyon mais l'on ne voit pas clairement s'il concerne Annecy.
+On va donc zoomer sur Annecy.
+
+image::windi-Annecy-1500-dimanche.png
+
+On peut voir que le vent est faible à Annecy dimanche.
+
+image::windi-Annecy-1500-lundi.png
+
+On peut voir que le vent est également faible à Annecy lundi et que le vent fort que l'on avait observé passe plus au nord.
+
+image::windi-Annecy-1500-mardi.png
+
+On peut voir que la tendance est vue pour mardi est bien conforme à Annecy.
 
 ===== Étude de la nébulosité
 
-Windy.
+On regarde les nuages sur plusieurs jours.
+
+image::windy-nuages-dimanche.png[]
+
+image::windy-nuages-lundi.png[]
+
+image::windy-nuages-mardi.png[]
+
+image::windy-nuages-mercredi.png[]
+
+On peut voir qu'Annecy est peu concerné par les nuages.
+
+===== Étude des précipitations
+
+On regarde les précipitations pour les jours à venir.
+
+image::windy-precipitations-dimanche.png[]
+
+image::windy-precipitations-lundi.png[]
+
+image::windy-precipitations-mardi.png[]
+
+image::windy-precipitations-mercredi.png[]
+
+On peut voir qu'il n'y a pas de précipitations à prévoir à Annecy pour les jours à venir.
+
+===== Étude de l'instabilité
+
+On n'étudie pas l'instabilité à cette échelle-là.
+
+===== Conclusions
+
+On peut donc en déduire que les conditions météos semblent favorables à la pratique du parapente dans les jours à venir.
+
+Il convient maintenant d'étudier plus finement.
 
 ==== Méso-échelle
 
@@ -319,22 +401,76 @@ Pour rappel également, le but de l'analyse météo est de répondre aux questio
 * Y a-t-il des nuages de prévus ? Si oui, à quelle(s) altitude(s) ?
 * Quelle est la force et la direction du vent dans la zone en fonction de l'altitude et de l'horaire ?
 * Quelle est l'instabilité de l'air ?
-* Quels sites de vol vais-je étudier plus en profondeur ?
+
+On va étudier en particulier le site de Planfait.
 
 ===== Étude de la nébulosité et des précipitations
 
-Météo Blue (MultiModel).
+On se rend sur le site www.meteoblue.com[Météo Blue], on tape le nom de la ville qui nous intéresse (ici Talloires).
+Dans le menu de gauche, on clique sur « Prévisions », puis sur « MultiModel ».
 
-===== Étude du vent et de l'instabilité
+image::multimodel.png[]
 
-NOTE: cf. Météo Ciel (haute altitude).
+On peut voir que de très faibles précipitations (moinsde 1 mm) sont prévues pour dimanche et lundi (à partir de 19 h).
+
+On voit également qu'un temps ensoleillé est prévu par de nombreux modèles.
+
+===== Étude du vent
+
+On se rend sur https://www.meteociel.fr[Météo Ciel], on tape le nom de sa ville (ici Talloires) dans le menu à gauche.
+On clique ensuite sur « Haute altitude ».
+
+image::meteo-ciel-haute-altitude-talloires.png[]
+
+On peut voir que dimanche et lundi, la force du vent ne dépasse pas 20 km/h jusqu'à 2000 m.
+En revanche, il pourra atteindre 35 km/h à 3000 m.
+Ces valeurs restent raisonnables et permettent d'envisager de voler à Talloires jusqu'à 3000 m.
+On peut également en déduire que le vent météo sera probablement moins fort que les brises (de pente ou de vallée).
+
+S'agissant de l'orientation, le vent viendra tantôt du sud, tantôt de l'ouest, tantôt du sud-ouest.
+Le vent météo n'étant pas trop soutenu, on n'est pas obligé de le prendre en compte dans le choix du site de décollage.
+
+===== Étude de l'instabilité
+
+L'altitude du modèle est de 962 m (cf. image ci-dessous).
+
+image::meteo-ciel-altitude-Talloires.png[]
+
+Par conséquent, la température à 2 m correspond à 963 m d'altitude.
+
+image::meteo-ciel-haute-altitude-talloires.png[]
+
+Regardons l'instabilité à 11 h.
+On peut voir que z850 correspond à une altitude de 1560 m (géopotentiel de 156 dam).
+La température à 963 m est de 27,6° C est celle à 1560 m est de 18,7° C.
+Il y a donc une différence d'environ 9° C pour 600 m, soit 1,5° C pour 100 m.
+Cela correspond à un air absolument instable.
+On peut donc en déduire que dimanche sera une journée favorable aux vols thermiques dès 11 h (et peut-être même plus tôt).
+
+Si l'on fait la même analyse à :
+
+* 8 h, on peut voir que l'air est stable ;
+* à 20 h, on peut en déduire que l'air est toujours absolument instable à 20 h ;
+* à 23 h, que l'air est sable.
+
+On peut donc en déduire que l'instabilité s'installera entre 8 h et 11 h et disparaîtra entre 20 et 23 h.
+La journée de dimanche est donc propice aux vols thermiques.
+
+En faisant la même analyse pour lundi, on peut en déduire que la journée de lundi est également propice aux vols thermiques (avec une apparation et une disparition de l'instabilité aux mêmes créneaux horaires que dimanches).
+
+===== Conclusions
+
+On sait donc que l'on peut voler à Planfait dimanche et lundi avec des conditions thermiques à 11 h au plus tard et jusqu'à tard le soir.
+Par conséquent, les conditions de vols sont favorables aux vols thermiques mais pas aux ploufs.
+
+On peut réitérer cette analyse pour d'autres sites si le site ne convient pas à notre objectif, à notre niveau, à nos horaires...
 
 À la fin de cette étape, on sait donc :
 
-* Cas large : dans quel secteur on va aller voler et on a l'idée de quelques sites (où), quelle semaine (quand) et dans quelles conditions ;
-* Cas étroit : si l'on a plus ou moins de chances de voler dans le secteur considéré (où) durant telle semaine (quand) et selon quelles conditions.
+* Cas large : dans quel secteur on va aller voler et on a l'idée de quelques sites (où), quel(s) jour(s) (quand) et dans quelles conditions ;
+* Cas étroit : si l'on a plus ou moins de chances de voler dans le secteur considéré (où) tel jour (quand) et selon quelles conditions.
 
-Il convient maintenant d'étudier le(s) site(s) considéré(s) jour par jour (quand) et de connaître leurs conditions de vol (comment).
+Il convient maintenant d'étudier le(s) site(s) considéré(s) jour par jour, heure par heure (quand), et de connaître leurs conditions de vol (comment).
 
 ==== Échelle aérologique
 
@@ -346,9 +482,9 @@ Quotidiennement pour le lendemain (voire les jours suivants).
 
 Pour rappel également, le but de l'analyse météo est de répondre aux questions suivantes : où (dimension spatiale), quand (dimension temporelle), comment (conditions de vol) ?
 À cette échelle, ces questions peuvent se décliner ainsi :
-* Tel site est-il volable (où) ?
-* À quel(s) créneau(x) horaire(s) (quand) ?
-* Selon quelles conditions de vol (comment) ?
+* Tel site est-il volable demain (où) ?
+* À quel(s) créneau(x) horaire(s) puis-je voler demain (quand) ?
+* Quelles seront les conditions de vol demain (comment) ?
 
 ===== Étude de la nébulosité et des précipitations
 
