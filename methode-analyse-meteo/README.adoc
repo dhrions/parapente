@@ -359,11 +359,11 @@ image::windy-nuages-mardi.png[]
 
 image::windy-nuages-mercredi.png[]
 
-On peut voir qu'Annecy est peu concerné par les nuages.
+On peut voir que le secteur d'Annecy est peu concerné par les nuages.
 
 ===== Étude des précipitations
 
-On regarde les précipitations pour les jours à venir.
+On consulte aussi https://www.windy.com[Windy] pour étudiers les précipitations des jours à venir.
 
 image::windy-precipitations-dimanche.png[]
 
@@ -373,7 +373,7 @@ image::windy-precipitations-mardi.png[]
 
 image::windy-precipitations-mercredi.png[]
 
-On peut voir qu'il n'y a pas de précipitations à prévoir à Annecy pour les jours à venir.
+On peut voir qu'il n'y a pas de précipitations à prévoir dans le bassin annécien pour les jours à venir.
 
 ===== Étude de l'instabilité
 
