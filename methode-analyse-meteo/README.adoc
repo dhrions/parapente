@@ -406,7 +406,7 @@ On va étudier en particulier le site de Planfait.
 
 ===== Étude de la nébulosité et des précipitations
 
-On se rend sur le site www.meteoblue.com[Météo Blue], on tape le nom de la ville qui nous intéresse (ici Talloires).
+On se rend sur le site https://www.meteoblue.com[Météo Blue], on tape le nom de la ville qui nous intéresse (ici Talloires).
 Dans le menu de gauche, on clique sur « Prévisions », puis sur « MultiModel ».
 
 image::multimodel.png[]
