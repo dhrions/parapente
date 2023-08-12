@@ -2,130 +2,339 @@
 :Author: Romain Le Drogo
 :toc:
 :sectnums:
+:toclevels: 3 
+:toc-title: Sommaire
 :cfs: (cf. capture d'écran ci-dessous)
-== Comment faire une analyse météo ?
 
-On part du général vers le particulier.
+== Introduction
 
-Le but est de répondre aux questions suivantes : 
+Pour le dire simplement, le but de l'analyse météo est de répondre aux questions suivantes : 
 
-* Où vais-je pouvoir voler tel jour ?
-* Sur quel(s) créneau(x) horaire(s) ?
-* Dans quelles conditions ?
+* Où (puis-je voler) ?
+* Quand (puis-je voler) ?
+* Comment (dans quelles conditions) ?
 
-=== Étudier la météo du pays
+Ces questions présupposent quelques questions :
 
-Le but est de répondre à la question suivante : dans quelle région vais-je pouvoir voler tel(s) jour(s) ?
+* Quel est mon niveau ?
+* Quel est mon objectif (exemple : simple « plouf » ou vol de distance) ?
+* Quelles sont mes disponibilités ? Quelques heures ou plusieurs semaines ?
+* Quel est mon terrain de jeu ? Suis-je limité à un site en particulier ou puis-je me déplacer ?
 
-Pour cela, on va devoir répondre à la question suivante : dans quelle(s) zone(s) fait-il beau et quels jours ?
+En effet, un pilote débutant va être davantage limité qu'un pilote expérimenté par les conditions.
+Un pilote qui cherche à faire un simple plouf ne va pas chercher les mêmes conditions qu'un pilote cherchant à faire du vol de distance.
 
-On en profitera également pour répondre à la question suivante, cela nous servira par la suite : quelle est la direction générale du vent dans le pays ?
+Il y a donc deux manières extrêmes d'aborder l'analyse météo :
 
-On peut répondre à la question « Dans quelle(s) zone(s) fait-il beau et quels jours ?  » en se rendant sur le site de https://meteofrance.com[Météo France] {cfs}.
+* cas large : on n'a aucune contrainte spatiale et temporelle et l'on ne cherche pas à faire un type de vol en particulier ;
+* cas étroit : on a un créneau horaire de quelques minutes sur un site précis et l'on cherche à faire un type de vol en particulier.
 
-image:./meteo-france1.jpg[]
+== Propédeutiques
 
-On peut répondre à la question « Quelle est la direction générale du vent dans le pays ? » en se rendant sur le site de https://meteofrance.com[Météo France] {cfs}. Dans le cas présent, il faudra se rendre sur https://meteo-parapente.com[Météo Parapente] pour en savoir plus (l'étude de la direction du vent dans la zone considérée est traitée _infra_).
+=== Les échelles météorologiques
 
-image:./meteo-france2.jpg[]
+Comme indiqué sur le site https://www.culture-maritime.com/document/echellemeteo.pdf[www.culture-maritime.com], les différents phénomènes observables dans l'atmosphère peuvent être regroupés suivant leurs
+dimensions (échelle spatiale) et leur durée de vie (échelle temporelle) caractéristiques.
+Ces échelles sont listées dans l'ordre décroissant de leurs dimensions physiques et temporelles.
+Ce sens correspond également à l'ordre chronologique de leur utilisation dans le cas d'une analyse météo complète.
+Par exemple, avant de commencer une semaine de parapente dans un nouvel endroit, on va étudier les conditions à toutes les échelles en partant de l'échelle  à l'échelle locale.
+En revanche, lorsque l'on est dans le même secteur depuis plusieurs jours, on peut se contenter de l'analyse au niveau synoptique une fois par semaine.
 
-=== Étudier la météo de la zone considérée
+==== L'échelle planétaire
 
-Le but est de répondre aux questions suivantes : 
+Ces phénomènes météorologiques à l'échelle planétaire (cf. https://fr.wikipedia.org/wiki/M%C3%A9t%C3%A9orologie#%C3%89chelle_plan%C3%A9taire[Wikipédia]) sont associés aux grandes fluctuations saisonnières de
+l'atmosphère.
+Ils s'étendent sur plusieurs milliers de km et leur durée de vie est de l'ordre du mois ou de l'année.
+On peut citer comme exemple l'alternance des périodes sèches et humides des régions intertropicales,
+le régime des moussons ou https://fr.wikipedia.org/wiki/El_Ni%C3%B1o[_El Niño_].
+On peut les appréhender grâce aux satellites géostationnaires.
 
-. Est-ce qu'il pleut ou pas ? Si oui, où exactement et sur quels créneaux horaires ?
-. Quelle est la direction générale du vent dans la zone ?
-. Quels sites de vol vais-je étudier plus en profondeur ?
+En parapente, cette échelle est relativement peu étudiée.
+Elle peut être utile pour choisir ou éviter une saison (quand) à laquelle se rendre dans un pays (où).
 
-Comment obtenir l'information ?
+==== L'échelle synoptique
 
-En se rendant sur un site comme https://www.meteoblue.com/fr/meteo/semaine/talloires_france_2973480[Météo Blue].
+Les phénomènes qui lui sont associés ont une dimension comprise entre 100 et 1000 km et une durée de
+vie de quelques jours. Une perturbation synoptique et les fronts qui lui sont associés en sont de bons
+exemples.
+Ils sont l'archétype des zones de mauvais temps observées aux latitudes tempérées. On peut
+mesurer leur évolution avec un réseau de stations météo.
 
-==== Étude du temps dans la zone considérée
+En parapente, cette échelle peut être étudiée dans les situations suivantes :
 
-===== Étude de la semaine
+- lorsqu'on n'a pas fait d'analyse météo à cette échelle depuis plusieurs jours (quand) ;
+- lorsque l'on veut choisir un pays ou une région où pratiquer (où).
 
-image:meteoblue1.jpg[]
+==== La méso-échelle
 
-Dans l'image ci-dessus, on peut voir :
+Elle se définit par les dimensions horizontales des phénomènes qui varient de 10 à 100 km.
+Leur durée varie entre quelques heures et une journée, voire plusieurs jours dans certains cas.
+Les vents régionaux ou locaux ou les ondulations d'un courant aérien qu'on peut déceler en altitude après le passage d'une barrière montagneuse entrent dans cette catégorie.
+Une station d'observation permet de les suivre.
 
-. Que le dimanche :
+En parapente, cette échelle est étudiée quotidiennement.
 
-    * Il fait beau.
-    * Il ne devrait pas pleuvoir.
-    * Le vent vient du nord-ouest.
-    * La force du vent est raisonnable (9 km/h).
-    * *En première approche, la météo semble favorable à la pratique du parapente.*
+==== L'échelle aérologique
 
-. Que le lundi :
+Elle concerne tout phénomène ayant des dimensions horizontales de 1 à 10 km et d'un durée de vie de
+l'ordre de l'heure.
+Un nuage cumuliforme, un orage, une tornade relèvent de cette catégorie.
+L'observation par radar des échos précipitants permet une bonne évaluation de l'intensité et de
+l'évolution des météores observés.
 
-    * Le temps est incertain.
-    * Il pourrait pleuvoir.
-    * Le vent vient du sud, ce qui pourrait renforcer la brise de vallée.
-    * La force du vent est relativement importante (14 km/h).
-    * *En première approche, la météo semble incertaine pour pratiquer le parapente. Il faut étudier plus finement la météo de ce jour-là.*
+En parapente, cette échelle est étudiée pluri-quotidiennement.
 
-. Que le mardi :
+==== La micro-échelle
 
-    * Le temps est incertain.
-    * Il devrait pleuvoir.
-    * Le vent vient du sud-ouest.
-    * La force du vent est importante (21 km/h).
-    * *En première approche, la météo semble défavorable à la pratique du parapente.*
+On peut y inclure tout phénomène ayant une dimension de l'ordre du mètre et d'une durée de l'ordre de la seconde à la minute.
+Les tourbillons de poussière, les remous observés dans l'écoulement
+atmosphérique à cause de la rugosité du sol et du frottement occasionné, les rafales de vent en sont de
+bons exemples.
+Tout observateur humain est à même de les percevoir.
 
-. Que le mercredi : *la situation est similaire à lundi*.
+En parapente, cette échelle est étudiée et ressentie en permanence du décollage jusqu'à l'atterrissage.
 
-. Que le jeudi :
+=== Les 4 phénomènes météorologiques à étudier 
 
-    * Il fait beau.
-    * Il ne devrait pas pleuvoir.
-    * Le vent vient du sud, ce qui pourrait renforcer la brise de vallée.
-    * La force du vent est relativement importante (12 km/h).
-    * *En première approche, la météo semble favorable à la pratique du parapente.*
+On doit vérifier 4 phénomènes météorologiques avant de voler :
 
-. Que le vendredi :
+- la nébulosité (présence de nuages ou non) ;
+- les précipitations ;
+- l'instabilité de l'air ;
+- le vent (direction et force).
 
-    * Il fait couvert.
-    * Il pourrait pleuvoir.
-    * Le vent vient du sud-est.
-    * La force du vent est raisonnable (10 km/h).
-    * *En première approche, la météo semble plutôt favorable à la pratique du parapente. Toutefois, il faut étudier plus finement la météo de ce jour-là.*
+==== La nébulosité
 
-. Que le samedi :
+La nébulosité peut être un avantage ou un inconvénient en fonction de ses objectifs de vol. Par exemple, un voile nuageux pourra être un avantage pour un débutant car elle participera à la stabilité de l'air. Au contraire, l'absence de nuages pourra être un avantage pour un pilote expérimenté désirant faire de la distance.
 
-    * Le temps est incertain.
-    * Il pourrait pleuvoir.
-    * Le vent vient du nord, il pourrait aller à l'encontre de la brise de vallée.
-    * La force du vent est raisonnable (10 km/h).
-    * *En première approche, la météo semble plutôt favorable à la pratique du parapente. Toutefois, il faut étudier plus finement la météo de ce jour-là.*
+==== Les précipitations
 
-===== Étude du lundi
+Quel que soit l'objectif ou le niveau du pilote, la présence de précipitations est un inconvénient majeur.
 
-On étudie plus finement le lundi.
+==== L'instabilité de l'air
 
-image:meteoblue-lundi.jpg[]
+Une particule d'air décroît en température :
 
-On peut voir qu'il fait beau de 9 h à 18 h et que le mauvais temps que l'on avait précédemment noté ne se manifestera qu'après 18 h. Par ailleurs, si la force du vent semble relativement importante le matin, elle s'intensifie de plus en plus jusqu'à 18 h. On peut donc en conclure que le temps est plutôt favorable le lundi mais qu'il faudra se méfier de la force du vent. Il faudra consulter les prévisions de la force du vent la veille au soir ou le matin même.
+* au contact d'une masse d'air plus froide (phénomène diabatique) ;
+* du simple fait de s'élever dans les airs car elle occupe  alors plus d'espace (phénomène adiabatique).
 
-===== Étude du mardi
+Sans prendre en compte les phénomènes diabatiques, une particule d'air sèche décroît en température de 1°C tous les 100 m d'altitude tandis qu'une particul d'air saturée (dont le taux d'humidité est de 100 %) décroît en température de 0,6°C tous les 100 m d'altitude.
 
-On étudie plus finement le mardi.
+Une masse d'air est considérée :
 
-image:meteoblue-mardi.jpg[]
+* stable quand l'air se refroidit continuellement plus lentement que les
+adiabatique sèches et saturées (la température décroît de moins de 0,6°C tous les 100 m d'altitude) ;
+* conditionnellement instable quand l'air se refroidit continuellement plus rapidement que les adiabatiques sèches mais moins rapidement que les adiabatiques saturées (la température décroît entre 0,6°C et 1°C tous les 100 m d'altitude) ;
+* absolument instable quand l'air se refroidit continuellement plus rapidement que les adiabatiques saturées (la température décroît de plus de 1°C tous les 100 m d'altitude).
 
-On peut voir que le temps est couvert de 9 h à 18 h et qu'il devrait pleuvoir de 12 h à 15 h. Par ailleurs, les probabilités de précipitations sont au moins égales à 50 % de 9 h à 18 h, atteignant même 75 % de 12 h à 15 h. Par conséquent, on peut estimer que notre conclusion en première approche est confirmée : la météo du mardi ne sera pas favorable à la pratique du parapente. 
+Le mot continuellement est important ; en effet, si en s'élevant en altitude dans l'air, la température stagne voire croît sur quelques mètres, on dénombre alors trois masses d'air : celle où la température stagne voire croît (dans ce cas, on parle de couche d'inversion), celle au-dessus et celle en-dessous, où la température décroit.
 
-===== Étude du mercredi
+NOTE: On considère qu'une bulle d'air chaud se détache du sol lorsque sa température est supérieure de 3° C à celle de l'air ambiant.
 
-On étudie plus finement le mercredi.
+===== Cas d'une masse d'air stable
 
-image:meteoblue-mercredi.jpg[]
+Prenons le cas d'une masse d'air partant de de la surface (disons 500 m) jusqu'à 2000 m et dont la température décroît de manière constante à mesure qu'on s'y élève.
+Considérons que la température de cette masse d'air à la surface est de 20° C et de 10° C à 3000 m.
+La température décroit donc de 10° C sur 2500 m, soit une moyenne de 4° C par 1000 m (ou 0,4° C par 100 m).
+Cette masse d'air est donc stable.
 
-On peut voir que le temps est couvert de 9 h à 18 h et que le mauvais temps que l'on avait précédemment noté ne se manifestera qu'après 18 h. Par ailleurs, la force du vent semble rraisonnable, elle s'intensifie de plus en plus jusqu'à 18 h. On peut donc en conclure que le temps est plutôt favorable le mercredi.
+Considérons une particule d'air chaud d'une température de 23° C à la surface.
 
-De même, on étudie le jeudi et le vendredi.
+* Au niveau de la surface, cette particule d'air (23° C) est plus chaude que l'air ambiant (20° C) et donc plus légère, elle va donc s'élever.
+* 100 m plus haut (600 m d'altitude), cette particule d'air est plus chaude (22° C) que l'air ambiant (19,6° C) et donc plus légère, elle va donc s'élever.
+* 100 m plus haut (700 m d'altitude), cette particule d'air est plus chaude (21° C) que l'air ambiant (19,2° C) et donc plus légère, elle va donc s'élever.
+* 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (18,8° C) et donc plus légère, elle va donc s'élever.
+* 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (18,4° C) et donc plus légère, elle va donc s'élever.
+* 100 m plus haut (1000 m d'altitude), cette particule d'air est aussi chaude (18° C) que l'air ambiant (18° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
 
-===== Conclusions
+La couche convective (où l'air se déplace verticalement) est de 500 m de hauteur, entre la surface (500 m) et 1000 m d'altitude.
+Le plafond est donc situé à 1000 m d'altitude.
+
+===== Cas d'une masse d'air instable
+
+Prenons le cas d'une masse d'air partant de de la surface (disons 500 m) jusqu'à 2000 m et dont la température décroît de manière constante à mesure qu'on s'y élève.
+Considérons que la température de cette masse d'air à la surface est de 20° C et de 0° C à 3000 m.
+La température décroit donc de 20 °C sur 2500 m, soit une moyenne de 0,8° C par 100 m (ou 8 °C par 1000 m).
+Cette masse d'air est donc instable.
+
+Considérons une particule d'air chaud d'une température de 23° C à la surface.
+
+* Au niveau de la surface (500 m d'altitude), cette particule d'air (23° C) est plus chaude que l'air ambiant (20° C) et donc plus légère, elle va donc s'élever.
+* 100 m plus haut (600 m d'altitude), cette particule d'air est plus chaude (22° C) que l'air ambiant (19,2° C) et va donc continuer à s'élever.
+* 100 m plus haut (700 m d'altitude), cette particule d'air est plus chaude (21° C) que l'air ambiant (18,4° C) et va donc continuer à s'élever.
+* 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (17,8° C) et va donc continuer à s'élever.
+* 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (17° C) et va donc continuer à s'élever.
+* 100 m plus haut (1000 m d'altitude), cette particule d'air est plus chaude (18° C) que l'air ambiant (16,2° C) et va donc continuer à s'élever.
+* 100 m plus haut (1100 m d'altitude), cette particule d'air est plus chaude (17° C) que l'air ambiant (15,4° C) et va donc continuer à s'élever.
+* 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,6° C) et va donc continuer à s'élever.
+* 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (13,8° C) et va donc continuer à s'élever.
+* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus chaude (14° C) que l'air ambiant (13° C) et va donc continuer à s'élever.
+* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus chaude (13° C) que l'air ambiant (12,2° C) et va donc continuer à s'élever.
+* 100 m plus haut (1600 m d'altitude), cette particule d'air est plus chaude (12° C) que l'air ambiant (11,6° C) et va donc continuer à s'élever.
+* 100 m plus haut (1700 m d'altitude), cette particule d'air est plus chaude (11° C) que l'air ambiant (10,8° C) et va donc continuer à s'élever.
+* 100 m plus haut (1800 m d'altitude), cette particule d'air est aussi chaude (10° C) que l'air ambiant (10° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
+
+La couche convective (où l'air se déplace verticalement) est de 1300 m de hauteur, entre la surface (500 m) et 1800 m d'altitude.
+Le plafond est donc situé à 1800 m d'altitude.
+
+[NOTE]
+. Cas avec une couche d'inversion
+======
+Prenons la même situation à la différence prêt que la masse d'air s'arrête à 1500 m d'altitude.
+Au-dessus d'elle se trouve une masse d'air de 200 m d'altitude et où la témpérature croît de 0,1° C par 100 m.
+La température s'inverse dans cette masse d'air que l'on appelle alors une couche d'inversion.
+Dans ce cas, l'air va s'élever jusqu'à atteindre cette couche.
+======
+
+==== Le vent
+
+La direction et la force du vent est capitale. Le vent est la conjugaison du vent météorologique de la brise. Le vent météorologique découle des différences de pressions entre les différentes masses d'air à l'échelle climatique, dit autrement, des anticyclones et des dépressions. La brise, quant à elle, dépend notamment de l'ensoleillement et du réchauffement du sol. Le vent doit être pris en considération pour le décollage, pour le vol et pour l'atterrisage. Si le vent météorologique est significativement plus important que la brise, il faudra davantage le prendre en compte que cette dernière et vice versa.
+
+S'agissant de la force du vent, voici quelques recommandations qui, si elles ne sont pas à suivre à la lettre, peuvent donner une ordre de grandeur, notamment aux plus néophytes :
+
+- si le vent dépasse 35 km/h, il est très peu recommandé de voler quel que soit le niveau ;
+- si le vent dépasse 20 km/h, il est peu recommandé de voler pour un intermédiaire.
+
+Il s'agira de consulter la force du vent aux altitudes où l'on est susceptible de voler (altitude à l'atterrisage, au décollage et à l'altitude maximale possible).
+
+S'agissant de la direction du vent, celle-ci est notamment capitale pour le décollage. En effet, idéalement, on décolle face à un vent modéré (autour de 10 km/h). Plus l'orientation du vent s'éloigne de cette direction, moins le décollage est favorable. À l'inverse, la pire situation serait un vent violent qui soufflerait derrière la direction du décollage. Entre ces deux extrêmes, de multiples configurations rendent le décollage possible, notamment en fonction du niveau du pilote.
+
+La direction du vent est également importante pendant le vol et à l'atterrissage. En effet, un vent contraire au sens de progression du pilote peut l'empêcher d'atteindre sa destination. En outre, il faut atterrir face au vent.
+
+== Méthode d'analyse
+
+À chacune des échelles décrites plus haut, on s'attèlera à déterminer les 4 phénomènes décrits précédemment.
+
+=== Analyse _a priori_
+
+L'analyse météo _a priori_ permet :
+- dans le cas où l'on est libre de ses mouvements et de son temps, d'optimiser ses chances de voler en se rendant au bon endroit (où), au bon moment (quand), avec les bonnes conditions de vol (comment) ;
+- dans le cas où l'on souhaite confirmer que l'on peut voler sur tel site précis à telle heure selon telles conditions, de calculer les chances que cette situation se produise.
+
+Cette analyse permet donc de gagner du temps en économisant éventuellement un trajet inutile voire de l'argent.
+
+==== Échelle planétaire
+
+Pour rappel, les phénomènes à l'échelle planétaire s'étendent sur plusieurs milliers de km et leur durée de vie est de l'ordre du mois ou de l'année.
+
+Pour rappel également, le but de l'analyse météo est de répondre aux questions suivantes : où (dimension spatiale), quand (dimension temporelle), comment (conditions de vol) ?
+À cette échelle, ces questions peuvent se décliner ainsi :
+
+* Cas large :
+** Dans quel pays puis-voler (où) ?
+** Quel mois dans l'année (quand) ?
+** Quelles seront les conditions (comment) ?
+
+* Cas étroit :
+** Pourrais-je voler dans tel pays (où) ?
+** Tel mois (quand) ?
+** Quelles seront les conditions (comment) ?
+
+NOTE: à écrire.
+
+À la fin de cette étape, on sait donc :
+
+* Cas large : dans quelle pays on va aller voler (où), quel mois (quand) et dans quelles conditions ;
+* Cas étroit : si l'on a plus ou moins de chances de voler dans le pays étudié (où) durant tel mois (quand) et selon quelles conditions.
+
+Il convient maintenant de préciser le pays (où) et les semaines (quand) ainsi que d'affiner les conditions de vol (comment).
+
+==== Échelle synoptique
+
+Pour rappel, les phénomènes qui sont associés à l'échelle synoptique ont une dimension comprise entre 100 et 1000 km et une durée de vie de quelques jours.
+
+Pour rappel également, le but de l'analyse météo est de répondre aux questions suivantes : où (dimension spatiale), quand (dimension temporelle), comment (conditions de vol) ?
+À cette échelle, ces questions peuvent se décliner par l'une de ces deux questions suivantes :
+
+* Cas large : dans quelle région (où) vais-je pouvoir voler tel(s) jour(s) (quand) ? Quelles seront alors les conditions ?
+* SinCas étroit : vais-je pouvoir voler dans le secteur dans lequel je suis (où) tel jour à telle heure (quand) ? Quelles seront alors les conditions ?
+
+Quand faire une analyse météo à cette échelle ?
+
+* Lorsqu'on n'a pas fait d'analyse à cette échelle depuis plusieurs jours (et donc notamment quand on reprend le parapente après une interruption de plusieurs jours voire plus).
+
+===== Étude des anticyclones et dépressions
+
+On se rend sur www.windy.com[Windy] pour savoir où sont localisés les anticyclones et les dépressions en France ainsi qu'à proximité.
+On vérifiera également la présence de marais barométriques.
+Les anticyclones sont plutôt favorable à la pratique du parapente alors que la présence de dépression ou de marais barométrique sont plutôt défavorables.
+
+===== Étude du vent
+
+Cela nous donne également la force et la direction du vent à l'échelle du pays.
+
+===== Étude des précipitations
+
+Windy.
+
+===== Étude de la nébulosité
+
+Windy.
+
+==== Méso-échelle
+
+Pour rappel, la méso-échelle se définit par les dimensions horizontales des phénomènes qui varient de 10 à 100 km.
+Leur durée varie entre quelques heures et une journée, voire plusieurs jours dans certains cas.
+
+Quand faire une analyse météo à cette échelle ?
+
+Quotidiennement pour le lendemain (voire les jours suivants).
+
+Pour rappel également, le but de l'analyse météo est de répondre aux questions suivantes : où (dimension spatiale), quand (dimension temporelle), comment (conditions de vol) ?
+À cette échelle, ces questions peuvent se décliner ainsi :
+
+* Est-ce qu'il y a des précipitations tel jour dans tel secteur ?
+* Y a-t-il des nuages de prévus ? Si oui, à quelle(s) altitude(s) ?
+* Quelle est la force et la direction du vent dans la zone en fonction de l'altitude et de l'horaire ?
+* Quelle est l'instabilité de l'air ?
+* Quels sites de vol vais-je étudier plus en profondeur ?
+
+===== Étude de la nébulosité et des précipitations
+
+Météo Blue (MultiModel).
+
+===== Étude du vent et de l'instabilité
+
+NOTE: cf. Météo Ciel (haute altitude).
+
+À la fin de cette étape, on sait donc :
+
+* Cas large : dans quel secteur on va aller voler et on a l'idée de quelques sites (où), quelle semaine (quand) et dans quelles conditions ;
+* Cas étroit : si l'on a plus ou moins de chances de voler dans le secteur considéré (où) durant telle semaine (quand) et selon quelles conditions.
+
+Il convient maintenant d'étudier le(s) site(s) considéré(s) jour par jour (quand) et de connaître leurs conditions de vol (comment).
+
+==== Échelle aérologique
+
+Pour rappel, l'échelle aérologique, concerne tout phénomène ayant des dimensions horizontales de 1 à 10 km et d'un durée de vie de l'ordre de l'heure.
+
+Quand faire une analyse météo à cette échelle ?
+
+Quotidiennement pour le lendemain (voire les jours suivants).
+
+Pour rappel également, le but de l'analyse météo est de répondre aux questions suivantes : où (dimension spatiale), quand (dimension temporelle), comment (conditions de vol) ?
+À cette échelle, ces questions peuvent se décliner ainsi :
+* Tel site est-il volable (où) ?
+* À quel(s) créneau(x) horaire(s) (quand) ?
+* Selon quelles conditions de vol (comment) ?
+
+===== Étude de la nébulosité et des précipitations
+
+Météo Blue (MultiModel).
+
+Exemple : https://www.meteoblue.com/fr/meteo/prevision/multimodel/talloires_france_2973480.
+
+===== Étude du vent
+
+Météo Parapente (Vent / Alti).
+
+===== Étude de l'instabilité
+
+Météo Parapente (Émagramme).
+
+Pour apprendre à utiliser l'émagramme de Météo Parapente, on pourra consulter le https://portal.meteo-parapente.com/fr/files/meteo-parapente-emagram.pdf[manuel dédié].
+
+====== Conclusions
 
 Par conséquent, on peut estimer que :
 
@@ -142,45 +351,111 @@ On peut donc estimer qu'il est possible de voler 6 jours sur les 7 prochains jou
 
 *Il reste maintenant à choisir un site pour un jour précis. On chosit arbitrairement le lundi.*
 
-==== Détermination de la direction générale du vent
+À la fin de cette étape, on sait donc si l'on a plus ou moins de chances de voler sur le(s) site(s) considéré(s) (où) selon quel(s) créneau(x) horaire(s) (quand) et selon quelles conditions.
 
-On va étudier plus finement le lundi.
+==== Micro-échelle
 
-image:meteoblue-lundi-wind-1250-10h.jpg[]
+Pour rappel, les phénomènes de la micro-échelle ont une dimension de l'ordre du mètre et d'une durée de l'ordre de la seconde à la minute.
+Par conséquent, ils ne sont pas pris en compte par les modèles météo.
+L'analyse météo _a priori_ ne prend donc pas en compte les effets à la micro-échelle.
+Il faut donc les prendre en compte dans l'analyse météo _in situ_.
 
-On peut voir que la direction générale du vent à 1250 m à 9 h est sud-est.
+==== Prise de décision
 
-image:meteoblue-lundi-wind-1250-12h.jpg[]
+On choisit un ou plusieurs sites pour le lendemain et un ou plusieurs créneaux suivant la pratique envisagée.
 
-On peut voir que la direction générale du vent à 1250 m à 12 h est sud.
+=== Analyse _in situ_
 
-image:meteoblue-lundi-wind-1250-13h.jpg[]
+Le jour du (ou des) vol(s), on va chercher à confirmer notre analyse météo _a priori_, notamment celle à l'échelle aérologique (qui découle de l'analyse météo aux échelles plus grandes) et à lui adjoindre une analyse météà la micro-échelle.
 
-On peut voir que la direction générale du vent à 1250 m à 13 h est sud-ouest.
+==== Au moins une heure avant de voler
 
-image:meteoblue-lundi-wind-1250-15h.jpg[]
+Dès le réveil si possible, on va chercher à confirmer notre analyse météo _a priori_.
+On va ainsi vérifier la présence ou non de nuage et de précipitations ainsi que la force et la direction du vent voire la présence de thermiques (notamment sur des faces orientées vers l'est en début de journée).
 
-On peut voir que la direction générale du vent à 1250 m à 15 h est sud-ouest.
+==== Au décollage
 
-On voit donc que le vent vient du sud-est le matin, du sud à 12 h et du sud-ouest l'après-midi.
+Au décollage, on va vérifier que les conditions sont dans la continuité de notre analyse météo de début de journée.
 
-Par conséquent, si l'on veut voler le matin, il vaut mieux choisir un lieu exposé au sud-est et si l'on veut voler l'après-midi, il vaut mieux choisir un lieu exposé au sud-ouest.
+===== Étude de la nébulosité et des précipitations
 
-==== Choix de sites de vol à étudier
+On vérifie s'il y a des nuages et de quels types.
+S'il y a des cumulus, cela est un indice de la présence de thermiques.
+S'il y a un voile nuageux, cela signifie que le soleil ne pourra pas chauffer suffisamment le sol et donc que les thermiques seront faibles voire absents.
+On vérifie également la présence de nuages responsables de précipitations et la présence de ces dernières.
 
-Mettons que l'on veuille voler l'après-midi, il faut donc choisir un site exposé au sud-ouest. Pour cela, on peut se référer au https://carte.ffvl.fr/?mode=parapente[site de la FFVL].
+===== Étude du vent et de l'instabilité
 
-image:sites-ffvl-annecy.jpg[]
+À cette micro-échelle, il conviendra de: 
+* d'étudier le vent et les thermiques à la fois ;
+* de distinguer les effets du vent météo et ceux des brises (de pente et de vallée).
 
-=== Étudier un ou plusieurs sites de vol
+Au décollage, on vérifie quelle est la force et la direction du vent, si la force du vent n'est pas trop forte et si la direction du vent est plutôt face au décollage.
 
-Le but est de répondre aux questions suivantes :
+Pour cela, on pourra notamment observer, s'il y en a :
 
-* Va-t-il faire beau sur le site de vol considéré ? Si oui, sur quel(s) créneau(x) horaire(s) ?
-* Quelle vont être la direction et la force du vent sur le site de vol considéré tout au long de la journée ?
-* Comment va évoluer la température du site sur le site de vol, par rapport au point de rosée, tout au long de la journée ?
+* les manches à air au décollage ;
+* les parapentes au décollage ;
+* les arbres à proximité ;
+* les parapentes en l'air ;
+* les oiseaux en l'air ;
+* les nuages (voir _supra_).
 
-Comment obtenir l'information ?
+La direction d'une manche à air peut être constante pendant de longues heures, du fait d'un vent météo ou d'une brise soutenue, ou alors fluctuer en permanence, sous l'effet alterné du vent météo et des brises dont les forces sont similaires.
 
-En se rendant sur un site comme ffdsfds[Météo Parapente]
+L'observation des arbres permet de détecter la direction et la force du vent météo (étude du vent)  ainsi que la présence d'une brise de pente (étude de l'instabilité).
 
+Le déclenchement de thermiques le long de la pente peut être continu ou discontinu. Dans ce dernier cas, lors du déclenchement d'un thermique, on pourra ainsi voir les arbres (ou leurs branches) en contrebas du décollage se pencher vers le relief sous l'effet du thermique, les uns après les autres, du bas vers le haut, puis, la manche à air indiquer un vent de face.
+Ces passages de thermiques peuvent durer quelques brèves secondes (et se répéter de nombreuses fois) ou s'installer durablement pendant de longues heures.
+
+L'observation des parapentes au décollage et en l'air permet de voir si le vent est suffisamment fort pour permettre de décoller et de voler (en tant que débutant, si l'on voit que la majorité des pilotes galèrent à décoller, on pourra judicieusement s'abstenir de décoller).
+Il permet également de voir s'il y a des thermiques en sortie de décollage.
+
+L'observation des des parapentes et des oiseaux en l'air permet de voir :
+
+* la direction et la force du vent (étude du vent) : par exemple, si les parapentes et les oiseaux n'avancent pas lorsqu'ils sont face au vent et, qu'à l'inverse, ils avancent vite lorsqu'ils sont dos au vent, cela signifie que le vent est fort ;*
+* la présence de thermiques (étude de l'instabilité) : par exemple, si les parapentes et les oiseaux tournent en rond, cela signifie qu'il y a des thermiques.
+
+==== En vol
+
+[quote,L'abbé Courtois,L'Art d'ête chef (P254)]
+C'est à force de prévoir et de préparer qu'on se rend capable d'improvisation quand les circonstances l'exigent.
+
+Plus l'on vole loin, plus notre analyse météo _a priori_ aura dû porter sur un secteur large (2 dimensions).
+Plus l'on vole haut, plus notre analyse météo _a priori_ aura dû porter sur une altitude élevée (3 dimensions).
+Plus l'on vole longtemps, plus notre analyse météo _a priori_ aura dû porter sur une durée longue( « 4 » dimensions).
+
+Les inconnues doivent être réduites au minimum.
+On doit avoir des points de vigilance (exemples : risque d'orages en fin de journée, changement de direction du vent).
+Dans ce cas, on établira quelques critères (exemple : noircissement de nuages, ascendances généralisées) qui permettront de confirmer ou non la présence de ces points de vigilance.
+
+[CAUTION]
+====
+Pour se prémunir du https://fr.wikipedia.org/wiki/Biais_de_confirmation[biais de confirmation], on ne cherchera pas à confirmer l'une ou l'autre des hypothèses.
+
+Par exemple, s'il y a un risque d'orages, il y a deux hypothèses :
+
+* H1 : il y aura un orage où l'on va voler.
+* H2 : il n'y aura pas d'orages où l'on va voler.
+
+Le biais de confirmation pourra inciter un pilote à ne chercher qu'à confirmer l'une ou l'autre de ces hypothèses et qui a sa préférence.
+Par conséquent, il aura tendance à chercher les indices confirmant son hypothèse et à ignorer les indices qui prouvent l'autre hypothèse.
+
+Pour éviter ce biais, on pourra établir une liste de critères pondérés en fonction de leur importance (noircissement des nuages : 1 pt , ascendances généralisées : 3 pts, etc.).
+Si le nombre de points est supérieur ou inférieur à un nombre de points que l'on aura établi à l'avance, on pourra alors privilégiée l'une ou l'autre des hypothèses (indépendamment de notre préférence et du biais de confirmation).
+====
+
+Si l'on fait du vol de distance, on aura prévu plusieurs atterrissages de secours.
+
+Enfin, on restera attentif à la survenue d'un phénomène que l'on n'aurait pas prévu au cours de notre analyse météo _a priori_.
+
+==== En approche de l'atterrissage
+
+À écrire.
+
+== Sites utilisés
+
+* Windy : https://www.windy.com/
+* Météo Ciel (page « hautes altitudes »): https://www.meteociel.fr/
+* Météo Blue (page « MultiModel ») : https://www.meteoblue.com/fr/
+* Météo Parapente (onglets « Vent / Alti » et « Émagramme »): https://www.meteoparapente.com/
