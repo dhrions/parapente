@@ -183,7 +183,7 @@ Le plafond est donc situé à 1800 m d'altitude.
 ====== Cas d'une couche d'inversion bloquant la convection
 
 Prenons la même situation que précédemment à la différence prêt que la masse d'air s'arrête à 1200 m d'altitude.
-Au-dessus d'elle se trouve une masse d'air de 500 m d'altitude et où la témpérature croît de 0,1° C par 100 m.
+Au-dessus d'elle se trouve une masse d'air de 500 m d'altitude (donc entre 1200 et 1700 m d'altitude) et où la témpérature croît de 0,1° C par 100 m.
 La température s'inverse dans cette masse d'air que l'on appelle alors une couche d'inversion.
 Dans ce cas, on peut reprendre notre étude à 1200 m :
 
@@ -192,11 +192,11 @@ On entre dans la couche d'inversion, la température de l'air ambiant va mainten
 * 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (14,7° C) et va donc continuer à s'élever.
 * 100 m plus haut (1400 m d'altitude), cette particule d'air est plus _froide_ (14° C) que l'air ambiant (14,8° C).
 
-Par conséquent, la particule d'air chaud va arrêter de monter entre 1400 et 1500 m d'altitude et va se mélanger à la masse d'air.
+Par conséquent, la particule d'air chaud va arrêter de monter entre 1400 et 1500 m d'altitude (dans la couche d'inversion, située entre 1200 et 1700 m) et va se mélanger à la masse d'air.
 
 ====== Cas d'une couche d'inversion ne bloquant pas la convection
 
-Prenons la même situation que précédemment à la différence prêt que la couche d'inversion ne mesure que 100 m d'altitude.
+Prenons la même situation que précédemment à la différence prêt que la couche d'inversion ne mesure que 100 m d'altitude (entre 1200 et 1300 m d'altitude).
 
 Dans ce cas, on peut reprendre notre étude à 1200 m :
 
@@ -211,7 +211,7 @@ La température de l'air ambiant décroît à nouveau de 0,8° C tous les 100 m.
 Par conséquent, la particule d'air chaud va arrêter de monter entre 1500 et 1600 m d'altitude et va se mélanger à la masse d'air.
 
 Dans ce cas, la couche d'inversion n'a pas bloqué la convection.
-Le plafond est situé plus haut que la couche d'inversion.
+Le plafond (un peu plus de 1500 m) est situé plus haut que la couche d'inversion (entre 1200 et 1300 m).
 Voilà notamment la raison pour laquelle on parle d'instabilité conditionnelle : en fonction des conditions, l'instabilité peut être bloquée ou non.
 
 ==== Le vent
