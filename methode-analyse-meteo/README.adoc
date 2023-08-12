@@ -148,7 +148,7 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 * 100 m plus haut (700 m d'altitude), cette particule d'air est plus chaude (21° C) que l'air ambiant (19,2° C) et donc plus légère, elle va donc s'élever.
 * 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (18,8° C) et donc plus légère, elle va donc s'élever.
 * 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (18,4° C) et donc plus légère, elle va donc s'élever.
-* 100 m plus haut (1000 m d'altitude), cette particule d'air est aussi chaude (18° C) que l'air ambiant (18° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
+* 100 m plus haut (1000 m d'altitude), cette particule d'air est [.underline]#aussi chaude# (18° C) que l'air ambiant (18° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
 
 La couche convective (où l'air se déplace verticalement) est de 500 m de hauteur, entre la surface (500 m) et 1000 m d'altitude.
 Le plafond est donc situé à 1000 m d'altitude.
@@ -178,7 +178,7 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 * 100 m plus haut (1800 m d'altitude), cette particule d'air est plus chaude (10° C) que l'air ambiant (9,6° C) et va donc continuer à s'élever.
 * 100 m plus haut (1900 m d'altitude), cette particule d'air 
 est plus chaude (9° C) que l'air ambiant (8,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (2000 m d'altitude), cette particule d'air est +à la même température+ (8° C) que l'air ambiant (8° C) et va doncc arrêter de s'élever et se mélanger à la masse d'air.
+* 100 m plus haut (2000 m d'altitude), cette particule d'air est [.underline]#à la même température# (8° C) que l'air ambiant (8° C) et va doncc arrêter de s'élever et se mélanger à la masse d'air.
 
 La couche convective (où l'air se déplace verticalement) est de 1300 m de hauteur, entre la surface (500 m) et 2000 m d'altitude.
 Le plafond est donc situé à 2000 m d'altitude.
