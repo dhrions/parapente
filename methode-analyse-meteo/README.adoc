@@ -363,22 +363,7 @@ Météo Parapente (Émagramme).
 
 Pour apprendre à utiliser l'émagramme de Météo Parapente, on pourra consulter le https://portal.meteo-parapente.com/fr/files/meteo-parapente-emagram.pdf[manuel dédié].
 
-====== Conclusions
-
-Par conséquent, on peut estimer que :
-
-. Le temps est favorable à la pratique du parapente le dimanche.
-. Le temps est plutôt favorable à la pratique du parapente le lundi.
-. Le temps est défavorable à la pratique du parapente le mardi.
-. Le temps est favorable à la pratique du parapente le mercredi.
-. Le temps est favorable à la pratique du parapente le jeudi.
-. Le temps est plutôt favorable à la pratique du parapente le vendredi.
-
-On peut donc estimer qu'il est possible de voler 6 jours sur les 7 prochains jours.
-
-*On peut donc décider de voler dans le bassin d'Annecy pendant ces 7 jours.*
-
-*Il reste maintenant à choisir un site pour un jour précis. On chosit arbitrairement le lundi.*
+===== Conclusions
 
 À la fin de cette étape, on sait donc si l'on a plus ou moins de chances de voler sur le(s) site(s) considéré(s) (où) selon quel(s) créneau(x) horaire(s) (quand) et selon quelles conditions.
 
