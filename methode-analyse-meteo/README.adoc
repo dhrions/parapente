@@ -308,7 +308,7 @@ Dans la suite de notre analyse, on sera donc vigilant à la survenue éventuelle
 
 ===== Étude du vent
 
-On consulte Windy pour étudier le vent.
+On consulte https://www.windy.com[Windy] pour étudier le vent.
 
 image::windy-France-1500.png[]
 
@@ -349,7 +349,7 @@ On peut voir que la tendance est vue pour mardi est bien conforme à Annecy.
 
 ===== Étude de la nébulosité
 
-On regarde les nuages sur plusieurs jours.
+On consulte également https://www.windy.com[Windy] pour étudier la nébulosité sur plusieurs jours.
 
 image::windy-nuages-dimanche.png[]
 
