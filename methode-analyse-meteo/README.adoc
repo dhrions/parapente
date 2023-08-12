@@ -165,20 +165,23 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 * Au niveau de la surface (500 m d'altitude), cette particule d'air (23° C) est plus chaude que l'air ambiant (20° C) et donc plus légère, elle va donc s'élever.
 * 100 m plus haut (600 m d'altitude), cette particule d'air est plus chaude (22° C) que l'air ambiant (19,2° C) et va donc continuer à s'élever.
 * 100 m plus haut (700 m d'altitude), cette particule d'air est plus chaude (21° C) que l'air ambiant (18,4° C) et va donc continuer à s'élever.
-* 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (17,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (17° C) et va donc continuer à s'élever.
-* 100 m plus haut (1000 m d'altitude), cette particule d'air est plus chaude (18° C) que l'air ambiant (16,2° C) et va donc continuer à s'élever.
-* 100 m plus haut (1100 m d'altitude), cette particule d'air est plus chaude (17° C) que l'air ambiant (15,4° C) et va donc continuer à s'élever.
-* 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,6° C) et va donc continuer à s'élever.
-* 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (13,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus chaude (14° C) que l'air ambiant (13° C) et va donc continuer à s'élever.
-* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus chaude (13° C) que l'air ambiant (12,2° C) et va donc continuer à s'élever.
-* 100 m plus haut (1600 m d'altitude), cette particule d'air est plus chaude (12° C) que l'air ambiant (11,6° C) et va donc continuer à s'élever.
-* 100 m plus haut (1700 m d'altitude), cette particule d'air est plus chaude (11° C) que l'air ambiant (10,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (1800 m d'altitude), cette particule d'air est aussi chaude (10° C) que l'air ambiant (10° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
+* 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (17,6° C) et va donc continuer à s'élever.
+* 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (16,8° C) et va donc continuer à s'élever.
+* 100 m plus haut (1000 m d'altitude), cette particule d'air est plus chaude (18° C) que l'air ambiant (16° C) et va donc continuer à s'élever.
+* 100 m plus haut (1100 m d'altitude), cette particule d'air est plus chaude (17° C) que l'air ambiant (15,2° C) et va donc continuer à s'élever.
+* 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,4° C) et va donc continuer à s'élever.
+* 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (13,6° C) et va donc continuer à s'élever.
+* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus chaude (14° C) que l'air ambiant (12,8° C) et va donc continuer à s'élever.
+* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus chaude (13° C) que l'air ambiant (12° C) et va donc continuer à s'élever.
+* 100 m plus haut (1600 m d'altitude), cette particule d'air est plus chaude (12° C) que l'air ambiant (11,2° C) et va donc continuer à s'élever.
+* 100 m plus haut (1700 m d'altitude), cette particule d'air est plus chaude (11° C) que l'air ambiant (10,4° C) et va donc continuer à s'élever.
+* 100 m plus haut (1800 m d'altitude), cette particule d'air est plus chaude (10° C) que l'air ambiant (9,6° C) et va donc continuer à s'élever.
+* 100 m plus haut (1900 m d'altitude), cette particule d'air 
+est plus chaude (9° C) que l'air ambiant (8,8° C) et va donc continuer à s'élever.
+* 100 m plus haut (2000 m d'altitude), cette particule d'air est +à la même température+ (8° C) que l'air ambiant (8° C) et va doncc arrêter de s'élever et se mélanger à la masse d'air.
 
-La couche convective (où l'air se déplace verticalement) est de 1300 m de hauteur, entre la surface (500 m) et 1800 m d'altitude.
-Le plafond est donc situé à 1800 m d'altitude.
+La couche convective (où l'air se déplace verticalement) est de 1300 m de hauteur, entre la surface (500 m) et 2000 m d'altitude.
+Le plafond est donc situé à 2000 m d'altitude.
 
 ====== Cas d'une couche d'inversion bloquant la convection
 
@@ -190,7 +193,7 @@ Dans ce cas, on peut reprendre notre étude à 1200 m :
 * 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,6° C) et va donc continuer à s'élever.
 On entre dans la couche d'inversion, la température de l'air ambiant va maintenant augmenter de 0,1° C tous les 100 m.
 * 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (14,7° C) et va donc continuer à s'élever.
-* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus _froide_ (14° C) que l'air ambiant (14,8° C).
+* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus +froide+ (14° C) que l'air ambiant (14,8° C).
 
 Par conséquent, la particule d'air chaud va arrêter de monter entre 1400 et 1500 m d'altitude (dans la couche d'inversion, située entre 1200 et 1700 m) et va se mélanger à la masse d'air.
 
