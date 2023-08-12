@@ -300,7 +300,7 @@ Les vents semblent former un cercle tournant dans le sens anti-horaire au nord-o
 
 Si l'on dézoome, on peut voir plus clairement la dépression et l'anticyclone.
 
-image::windy-depresssion-anticyclone.png[]
+image::windy-depression-anticyclone.png[]
 
 On peut voir que la région d'Annecy semble n'être sous l'influence d'acune dépression et d'aucun anticyclone.
 Cela pourrait correspondre, en revanche, à un marais barométrique.
