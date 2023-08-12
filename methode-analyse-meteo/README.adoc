@@ -131,6 +131,9 @@ Le mot continuellement est important ; en effet, si en s'élevant en altitude da
 
 NOTE: On postule qu'une bulle d'air chaud se détache du sol lorsque sa température est supérieure de 3° C à celle de l'air ambiant.
 
+CAUTION: Dans les exemples suivants, on considèrera que la variation de la température au sein d'une masse d'air est _constante_ dans un souci de simplification.
+Dans la réalité, la variation de la température ne l'est pas, ce qui explique notamment l'utilité d'un émagramme.
+
 ===== Cas d'une masse d'air stable
 
 Prenons le cas d'une masse d'air partant de de la surface (disons 500 m) jusqu'à 2000 m et dont la température décroît de manière constante à mesure qu'on s'y élève.
