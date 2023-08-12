@@ -335,15 +335,15 @@ La tendance semble se poursuivre mercredi.
 Le vent fort que l'on observe lundi est bien localisé au niveau de Lyon mais l'on ne voit pas clairement s'il concerne Annecy.
 On va donc zoomer sur Annecy.
 
-image::windi-Annecy-1500-dimanche.png
+image::windi-Annecy-1500-dimanche.png[]
 
 On peut voir que le vent est faible à Annecy dimanche.
 
-image::windi-Annecy-1500-lundi.png
+image::windi-Annecy-1500-lundi.png[]
 
 On peut voir que le vent est également faible à Annecy lundi et que le vent fort que l'on avait observé passe plus au nord.
 
-image::windi-Annecy-1500-mardi.png
+image::windi-Annecy-1500-mardi.png[]
 
 On peut voir que la tendance est vue pour mardi est bien conforme à Annecy.
 
