@@ -49,6 +49,9 @@ On peut citer comme exemple l'alternance des périodes sèches et humides des r�
 le régime des moussons ou https://fr.wikipedia.org/wiki/El_Ni%C3%B1o[_El Niño_].
 On peut les appréhender grâce aux satellites géostationnaires.
 
+.La circulation atmosphérique à l'échelle planétaire, https://fr.wikipedia.org/wiki/Circulation_atmosph%C3%A9rique[Wikipédia]
+image::Atmospheric_circulation-fr.svg.png[width=400, align="center", alt="Par Pinpin — own work made with inkscape from Image:Atmospheric circulation.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3663038"]
+
 En parapente, cette échelle est relativement peu étudiée.
 Elle peut être utile pour choisir ou éviter une saison (quand) à laquelle se rendre dans un pays (où).
 
@@ -59,6 +62,9 @@ vie de quelques jours. Une perturbation synoptique et les fronts qui lui sont as
 exemples.
 Ils sont l'archétype des zones de mauvais temps observées aux latitudes tempérées. On peut
 mesurer leur évolution avec un réseau de stations météo.
+
+.Carte météorologique à l'échelle synoptique montrant les systèmes météorologiques en Amérique du Nord, https://fr.wikipedia.org/wiki/%C3%89chelle_synoptique[Wikipédia]
+image::Surface_analysis.gif[alt="Domaine public, https://commons.wikimedia.org/w/index.php?curid=1297872"]
 
 En parapente, cette échelle peut être étudiée dans les situations suivantes :
 
@@ -71,6 +77,9 @@ Elle se définit par les dimensions horizontales des phénomènes qui varient de
 Leur durée varie entre quelques heures et une journée, voire plusieurs jours dans certains cas.
 Les vents régionaux ou locaux ou les ondulations d'un courant aérien qu'on peut déceler en altitude après le passage d'une barrière montagneuse entrent dans cette catégorie.
 Une station d'observation permet de les suivre.
+
+.Un complexe orageux est un phénomène de méso-échelle, https://fr.wikipedia.org/wiki/M%C3%A9so-%C3%A9chelle[Wikipédia]
+image::July_21_2003_Pennsylvania_mesocyclone.gif[alt="NOAA, Public domain, via Wikimedia Commons"]
 
 En parapente, cette échelle est étudiée quotidiennement.
 
