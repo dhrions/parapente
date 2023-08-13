@@ -31,7 +31,7 @@ Il y a donc deux manières extrêmes d'aborder l'analyse météo :
 
 == Propédeutiques
 
-=== Les échelles météorologiques
+=== Les 5 échelles météorologiques
 
 Comme indiqué sur le site https://www.culture-maritime.com/document/echellemeteo.pdf[www.culture-maritime.com], les différents phénomènes observables dans l'atmosphère peuvent être regroupés suivant leurs
 dimensions (échelle spatiale) et leur durée de vie (échelle temporelle) caractéristiques.
@@ -129,6 +129,9 @@ adiabatique sèches et saturées (la température décroît de moins de 0,6° C 
 
 Le mot continuellement est important ; en effet, si en s'élevant en altitude dans l'air, la température stagne voire croît sur quelques mètres, on dénombre alors trois masses d'air : celle où la température stagne voire croît (dans ce cas, on parle de couche d'inversion), celle au-dessus et celle en-dessous, où la température décroit.
 
+.La température de l'air dans l'émagramme de Météo Parapente
+image::air-temperature.png[Température de l'air dans l'émagramme de Météo Parapente]
+
 NOTE: On postule qu'une bulle d'air chaud se détache du sol lorsque sa température est supérieure de 3° C à celle de l'air ambiant.
 
 CAUTION: Dans les exemples suivants, on considèrera que la variation de la température au sein d'une masse d'air est _constante_ dans un souci de simplification.
@@ -148,7 +151,7 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 * 100 m plus haut (700 m d'altitude), cette particule d'air est plus chaude (21° C) que l'air ambiant (19,2° C) et donc plus légère, elle va donc s'élever.
 * 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (18,8° C) et donc plus légère, elle va donc s'élever.
 * 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (18,4° C) et donc plus légère, elle va donc s'élever.
-* 100 m plus haut (1000 m d'altitude), cette particule d'air est #aussi chaude# (18° C) que l'air ambiant (18° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
+* 100 m plus haut (1000 m d'altitude), cette particule d'air est *aussi chaude* (18° C) que l'air ambiant (18° C) et va donc s'arrêter de s'élever et se mélanger à la masse d'air.
 
 La couche convective (où l'air se déplace verticalement) est de 500 m de hauteur, entre la surface (500 m) et 1000 m d'altitude.
 Le plafond est donc situé à 1000 m d'altitude.
@@ -165,20 +168,11 @@ Considérons une particule d'air chaud d'une température de 23° C à la surfac
 * Au niveau de la surface (500 m d'altitude), cette particule d'air (23° C) est plus chaude que l'air ambiant (20° C) et donc plus légère, elle va donc s'élever.
 * 100 m plus haut (600 m d'altitude), cette particule d'air est plus chaude (22° C) que l'air ambiant (19,2° C) et va donc continuer à s'élever.
 * 100 m plus haut (700 m d'altitude), cette particule d'air est plus chaude (21° C) que l'air ambiant (18,4° C) et va donc continuer à s'élever.
-* 100 m plus haut (800 m d'altitude), cette particule d'air est plus chaude (20° C) que l'air ambiant (17,6° C) et va donc continuer à s'élever.
-* 100 m plus haut (900 m d'altitude), cette particule d'air est plus chaude (19° C) que l'air ambiant (16,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (1000 m d'altitude), cette particule d'air est plus chaude (18° C) que l'air ambiant (16° C) et va donc continuer à s'élever.
-* 100 m plus haut (1100 m d'altitude), cette particule d'air est plus chaude (17° C) que l'air ambiant (15,2° C) et va donc continuer à s'élever.
-* 100 m plus haut (1200 m d'altitude), cette particule d'air est plus chaude (16° C) que l'air ambiant (14,4° C) et va donc continuer à s'élever.
-* 100 m plus haut (1300 m d'altitude), cette particule d'air est plus chaude (15° C) que l'air ambiant (13,6° C) et va donc continuer à s'élever.
-* 100 m plus haut (1400 m d'altitude), cette particule d'air est plus chaude (14° C) que l'air ambiant (12,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (1500 m d'altitude), cette particule d'air est plus chaude (13° C) que l'air ambiant (12° C) et va donc continuer à s'élever.
-* 100 m plus haut (1600 m d'altitude), cette particule d'air est plus chaude (12° C) que l'air ambiant (11,2° C) et va donc continuer à s'élever.
-* 100 m plus haut (1700 m d'altitude), cette particule d'air est plus chaude (11° C) que l'air ambiant (10,4° C) et va donc continuer à s'élever.
+* *1000* m plus haut (1700 m d'altitude), cette particule d'air est plus chaude (11° C) que l'air ambiant (10,4° C) et va donc continuer à s'élever.
 * 100 m plus haut (1800 m d'altitude), cette particule d'air est plus chaude (10° C) que l'air ambiant (9,6° C) et va donc continuer à s'élever.
 * 100 m plus haut (1900 m d'altitude), cette particule d'air 
 est plus chaude (9° C) que l'air ambiant (8,8° C) et va donc continuer à s'élever.
-* 100 m plus haut (2000 m d'altitude), cette particule d'air est #à la même température# (8° C) que l'air ambiant (8° C) et va doncc arrêter de s'élever et se mélanger à la masse d'air.
+* 100 m plus haut (2000 m d'altitude), cette particule d'air est *à la même température* (8° C) que l'air ambiant (8° C) et va donc arrêter de s'élever et se mélanger à la masse d'air.
 
 La couche convective (où l'air se déplace verticalement) est de 1300 m de hauteur, entre la surface (500 m) et 2000 m d'altitude.
 Le plafond est donc situé à 2000 m d'altitude.
@@ -294,12 +288,14 @@ Les anticyclones sont plutôt favorable à la pratique du parapente alors que la
 Considérons que l'on cherche à voler dans la région d'Annecy.
 On se rend sur https://www.windy.com[Windy] et on sélectionne la France.
 
+.Page d'accueil de Windy
 image::windy-France.png[]
 
 Les vents semblent former un cercle tournant dans le sens anti-horaire au nord-ouest de l'Irlande, ce qui pourrait correspondre à une dépression, et un autre tournant dans le sens inverse à l'ouest de l'Espagne, ce qui pourrait correspondre à un anticyclone.
 
 Si l'on dézoome, on peut voir plus clairement la dépression et l'anticyclone.
 
+.Dézoom permettant d'observer les dépressions et les anticyclones
 image::windy-depression-anticyclone.png[]
 
 On peut voir que la région d'Annecy semble n'être sous l'influence d'acune dépression et d'aucun anticyclone.
@@ -310,24 +306,29 @@ Dans la suite de notre analyse, on sera donc vigilant à la survenue éventuelle
 
 On consulte https://www.windy.com[Windy] pour étudier le vent.
 
+.Visualisation du vent sur Windy le samedi à 1500 m en France
 image::windy-France-1500.png[]
 
 On peut voir que la moitié nord de la France est soumise à un vent de sud-ouest de 15 à 30 noeuds (et donc d'environ 30 à 60 km/h) alors que la moitié sud connaît des vents de 0 à 20 noeuds (et donc de 0 à 40 km/h).
 La zone d'Annecy semble donc plutôt propice.
 Cela dit, on pourra voler plus haut, notamment vers 1500 m, il peut donc être judicieux de regarder les vents à cette altitude.
 
+.Visualisation du vent sur Windy le dimanche à 1500 m en France
 image::windy-dimanche-1500.png[]
 
 Le vent semble être entre 0 et 20 noeuds.
 
+.Visualisation du vent sur Windy le lundi à 1500 m en France
 image::windy-lundi-1500.png[]
 
 Lundi, le vent semble accélérer fortement.
 
+.Visualisation du vent sur Windy le mardi à 1500 m en France
 image::windy-mardi-1500.png[]
 
 Mardi, le vent semble décélérer.
 
+.Visualisation du vent sur Windy le mercredi à 1500 m en FRance
 image::windy-mercredi-1500.png[]
 
 La tendance semble se poursuivre mercredi.
@@ -335,14 +336,17 @@ La tendance semble se poursuivre mercredi.
 Le vent fort que l'on observe lundi est bien localisé au niveau de Lyon mais l'on ne voit pas clairement s'il concerne Annecy.
 On va donc zoomer sur Annecy.
 
+.Visualisation du vent sur Windy le dimanche à 1500 m à Annecy
 image::windi-Annecy-1500-dimanche.png[]
 
 On peut voir que le vent est faible à Annecy dimanche.
 
+.Visualisation du vent sur Windy le lundi à 1500 m à Annecy
 image::windi-Annecy-1500-lundi.png[]
 
 On peut voir que le vent est également faible à Annecy lundi et que le vent fort que l'on avait observé passe plus au nord.
 
+.Visualisation du vent sur Windy le mardi à 1500 m à Annecy
 image::windi-Annecy-1500-mardi.png[]
 
 On peut voir que la tendance est vue pour mardi est bien conforme à Annecy.
@@ -351,12 +355,16 @@ On peut voir que la tendance est vue pour mardi est bien conforme à Annecy.
 
 On consulte également https://www.windy.com[Windy] pour étudier la nébulosité sur plusieurs jours.
 
+.Visualisation des nuages sur Windy le dimanche en France
 image::windy-nuages-dimanche.png[]
 
+.Visualisation des nuages sur Windy le lundi en France
 image::windy-nuages-lundi.png[]
 
+.Visualisation des nuages sur Windy le mardi en France
 image::windy-nuages-mardi.png[]
 
+.Visualisation des nuages sur Windy le mercredi en France
 image::windy-nuages-mercredi.png[]
 
 On peut voir que le secteur d'Annecy est peu concerné par les nuages.
