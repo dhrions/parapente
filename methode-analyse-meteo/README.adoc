@@ -33,7 +33,7 @@ Pour le dire simplement, le but de l'analyse météo est de répondre aux questi
 Ces questions présupposent quelques questions :
 
 * Quel est mon niveau ?
-* Quel est mon objectif (exemple : simple « plouf » ou vol de distance) ?
+* Quel est mon objectif (exemple : simple «&nbsp;plouf&nbsp;» ou vol de distance) ?
 * Quelles sont mes disponibilités ? Quelques heures ou plusieurs semaines ?
 * Quel est mon terrain de jeu ? Suis-je limité à un site en particulier ou puis-je me déplacer ?
 
@@ -440,7 +440,7 @@ On va étudier en particulier le site de Planfait.
 ===== Étude de la nébulosité et des précipitations
 
 On se rend sur le site https://www.meteoblue.com[Météo Blue], on tape le nom de la ville qui nous intéresse (ici Talloires).
-Dans le menu de gauche, on clique sur « Prévisions », puis sur « MultiModel ».
+Dans le menu de gauche, on clique sur «&nbsp;Prévisions&nbsp;», puis sur «&nbsp;MultiModel&nbsp;».
 
 image::multimodel.png[]
 
@@ -451,7 +451,7 @@ On voit également qu'un temps ensoleillé est prévu par de nombreux modèles.
 ===== Étude du vent
 
 On se rend sur https://www.meteociel.fr[Météo Ciel], on tape le nom de sa ville (ici Talloires) dans le menu à gauche.
-On clique ensuite sur « Haute altitude ».
+On clique ensuite sur «&nbsp;Haute altitude&nbsp;».
 
 image::meteo-ciel-haute-altitude-talloires.png[]
 
@@ -604,12 +604,12 @@ L'observation des des parapentes et des oiseaux en l'air permet de voir :
 
 ==== En vol
 
-[quote,L'abbé Courtois,L'Art d'ête chef (P254)]
+[quote,L'abbé Courtois,L'Art d'être chef (P254)]
 C'est à force de prévoir et de préparer qu'on se rend capable d'improvisation quand les circonstances l'exigent.
 
 Plus l'on vole loin, plus notre analyse météo _a priori_ aura dû porter sur un secteur large (2 dimensions).
 Plus l'on vole haut, plus notre analyse météo _a priori_ aura dû porter sur une altitude élevée (3 dimensions).
-Plus l'on vole longtemps, plus notre analyse météo _a priori_ aura dû porter sur une durée longue ( « 4 » dimensions).
+Plus l'on vole longtemps, plus notre analyse météo _a priori_ aura dû porter sur une durée longue («&nbsp;4&nbsp;» dimensions).
 
 Les inconnues doivent être réduites au minimum.
 On doit avoir des points de vigilance (exemples : risque d'orages en fin de journée, changement de direction du vent).
@@ -642,9 +642,9 @@ Enfin, on restera attentif à la survenue d'un phénomène que l'on n'aurait pas
 == Sites utilisés
 
 * Windy : https://www.windy.com/
-* Météo Ciel (page « hautes altitudes »): https://www.meteociel.fr/
-* Météo Blue (page « MultiModel ») : https://www.meteoblue.com/fr/
-* Météo Parapente (onglets « Vent / Alti » et « Émagramme »): https://www.meteoparapente.com/
+* Météo Ciel (page «&nbsp;hautes altitudes&nbsp;»): https://www.meteociel.fr/
+* Météo Blue (page «&nbsp;MultiModel&nbsp;») : https://www.meteoblue.com/fr/
+* Météo Parapente (onglets «&nbsp;Vent / Alti&nbsp;» et «&nbsp;Émagramme&nbsp;»): https://www.meteoparapente.com/
 
 // == Les listes
 
@@ -699,7 +699,7 @@ Enfin, on restera attentif à la survenue d'un phénomène que l'on n'aurait pas
 
 // == Les liens
 
-// Pour aller à la section intitulée « <<Les listes>> », c'est par <<Les listes, ici>>.
+// Pour aller à la section intitulée«&nbsp;<<Les listes>>&nbsp;», c'est par <<Les listes, ici>>.
 
 // Il y a un dossier intéressant : link:./example1[ici].
 
