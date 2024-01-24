@@ -1,0 +1,161 @@
+= Vol au Puy de Dôme le week-end du 27 et 28 janvier 2024
+Dhrions
+Version 1.0.0, 24/01/2024
+// Document attributes
+:sectnums:                                                          
+:toc:                                                   
+:toclevels: 5  
+:toc-title: Ma super table des matières
+:icons: font
+
+:description: Example AsciiDoc document                             
+:keywords: AsciiDoc                                                 
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: ./styles
+:scriptsdir: ./js
+
+// Mes variables
+:url-wiki: https://fr.wikipedia.org/wiki
+:url-wiki-Europe-Ouest: {url-wiki}/Europe_de_l%27Ouest
+
+Mon but est de voler au Puy de Dôme (commune d'Orcines) le week-end du 27 et 28 janvier 2024.
+
+Pour rappel, le but de l'analyse météo est de répondre aux questions suivantes : où (dimension spatiale), quand (dimension temporelle), comment (conditions de vol) ?
+
+Inconsciemment, j'ai déjà partiellement répondu à ces questions :
+
+* Où ?
+Au Puy de Dôme.
+Je n'envisage pas de voler sur un autre site.
+Cela limite mon analyse à ce site.
+Mon cadre spatial est donc clairement délimité.
+* Quand ?
+Le week-end du 27 et 28 janvier 2024.
+Du lever du jour au coucher du soleil.
+Mon cadre temporel est donc clairement délimité.
+* Comment ?
+Je cherche juste à voler.
+Je me situe donc dans le cas nécessitant le moins de contraintes et donc le plus favorable.
+
+Inconsciemment, j'ai suivi la méthode décrite dans link:../README.adoc[ce document] et j'ai commencé directement à la méso-échelle. Je me suis posé les questions suivantes :
+
+* Est-ce qu'il y a des précipitations tel jour dans tel secteur ?
+* Y a-t-il des nuages de prévus ?
+Si oui, à quelle(s) altitude(s) ?
+* Quelle est la force et la direction du vent dans la zone en fonction de l'altitude et de l'horaire ?
+
+Je me suis rendu sur le site de https://www.meteoblue.com/fr/meteo/semaine/orcines_france_2989417[Météo Blue] en sélectionnant Orcines :
+
+.Prévisions météos de Météo Blue pour le Puy de Dôme en date dt 24/01/2024
+image::meteoblue-2401.png[Prévisions météos de Métoé Blue pour le Puy de Dôme en date du 24/01/2024]
+
+J'en ai déduit que :
+
+* il n'y a pas de précipitations prévues samedi et dimanche ;
+* il y a un brouillard prévu samedi matin ;
+* le temps est favorable de samedi midi à dimanche soir ;
+* le vent est de 8 km/h (donc bien inférieur à 30 km/h et est donc favorable).
+Toutefois, a semaine dernière, Météo Blue annonçait des vents faibles alors que Météo Ciel annonçait des vents plus violents.
+Je vais donc vérifier sur Météo Ciel.
+
+Je me rends sur https://www.meteociel.fr/previsions-haute-altitude/23223/orcines.htm[la page
+« Hautes altitudes » de Météo Ciel] :
+
+.Prévisions météos de Météo Ciel pour le Puy de Dôme en date dt 24/01/2024
+image::meteociel-2401.png[Prévisions météos de Météo Ciel pour le Puy de Dôme en date du 24/01/2024]
+
+On peut voir que la vitesse des vents ne dépasse pas les 20 km/h jusqu'à 3000 mètres d'altitude et qu'ils sont de 45 km/h à 4000 m.
+Cela permet de voler jusqu'à 3000 mètres d'altitude sans soucis (sachant que le départ est à 2000 m environ).
+
+Il semblerait donc que les conditions soient favorables pour voler au Puy de Dôme le week-end du 27 et 28 janvier 2024.
+
+Le soleil se lève à 08 h 18 et se couche à 17 h 41.
+
+Le décollage est situé à environ 1440 mètres d'altitude et l'atterissage de Taillefer à 896  mètres d'altitude, soit une différence de 544 mètres.
+// This is the optional preamble (an untitled section body).
+// Useful for writing simple sectionless documents consisting only of a preamble.
+
+// NOTE:: Le mieux est d'écrire une phrase par ligne.
+
+// == Les listes
+
+// === Listes ordonnées
+
+// .Liste des pays :
+// . Premier
+// . Deuxième
+
+// === Liste non ordonnées
+
+// * item
+// ** nested item
+// * item
+// * item
+// * item
+// ** nested item
+// ** nested item
+// *** subnested item
+// ** nested item
+// * item
+
+// == Les citations
+
+// // À propos des citations : https://docs.asciidoctor.org/asciidoc/latest/blocks/blockquotes/
+
+// === Basic quote syntax
+
+// [quote,attribution,citation title and information]
+// Quote or excerpt text
+
+// .After landing the cloaked Klingon bird of prey in Golden Gate park:
+// [quote,Captain James T. Kirk,Star Trek IV: The Voyage Home]
+// Everybody remember where we parked.
+
+// === Quoted blocks
+
+// [quote,Monty Python and the Holy Grail]
+// ____
+// Dennis: Come and see the violence inherent in the system. Help! Help! I'm being repressed!
+
+// King Arthur: Bloody peasant!
+
+// Dennis: Oh, what a giveaway! Did you hear that? Did you hear that, eh? That's what I'm on about! Did you see him repressing me? You saw him, Didn't you?
+// ____
+
+// === Quoted paragraphs
+
+// "I hold it that a little rebellion now and then is a good thing,
+// and as necessary in the political world as storms in the physical."
+// -- Thomas Jefferson, Papers of Thomas Jefferson: Volume 11
+
+// == Les liens
+
+// Pour aller à la section intitulée « <<Les listes>> », c'est par <<Les listes, ici>>.
+
+// Il y a un dossier intéressant : link:./example1[ici].
+
+// == Les variables ({url-wiki-Europe-Ouest}[cf. Wikipédia])
+
+// == Les blocs
+
+// .Voici le titre d'un bloc
+// Et là, cela est un bloc, constitué d'une phrase.
+// Et d'une deuxième phrase.
+// Et d'une troisième.
+
+// == Le code
+
+// [source, python]
+// ----
+// print("Hello world"!)
+// ----
+
+// Je peux facilement inclure une partie d'un fichier de code en-dessous.
+
+// [source, python]
+// ----
+// include::./example1/python.py[tag=le-nom-de-mon-tag]
+// ----
+
+// CAUTION: `include` ne fonctionne pas sur Git Hub.
