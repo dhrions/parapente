@@ -1,0 +1,30 @@
+= Documentation Parapente
+:description: Documentation sur le parapente : manuel BPC et analyse météo
+:keywords: Parapente, BPC, météo, formation
+
+Bienvenue dans la documentation parapente.
+Cette documentation contient des ressources pour les pilotes de parapente, des débutants aux pilotes confirmés.
+
+== Contenu disponible
+
+=== xref:manuel-bpc::index.adoc[Manuel de préparation au brevet de pilote confirmé]
+
+Manuel de révision pour la préparation au brevet de pilote confirmé (BPC), incluant :
+
+* Questions ouvertes sur la mécanique du vol et l'aérodynamique
+* Rappels théoriques
+* Glossaire complet des termes techniques
+
+=== xref:methode-meteo::index.adoc[Méthode d'analyse météorologique]
+
+Guide complet sur l'analyse météorologique pour le parapente :
+
+* Les 5 échelles météorologiques
+* Les 4 phénomènes météorologiques à étudier
+* Méthode d'analyse détaillée (a priori et in situ)
+* xref:methode-meteo::example-puy-de-dome.adoc[Exemple pratique : Vol au Puy de Dôme]
+* Sites et outils recommandés
+
+== Contribution
+
+Pour contribuer à cette documentation, consultez le dépôt GitHub du projet.
