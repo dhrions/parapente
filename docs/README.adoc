@@ -3,7 +3,7 @@ Dhrions
 Version 1.0.0, 20/08/2025
 // Document attributes
 :sectnums:                                                          
-:toc:                                                   
+                                                   
 :toclevels: 5  
 :toc-title: Ma super table des matières
 

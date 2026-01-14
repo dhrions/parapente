@@ -2,7 +2,7 @@
 :Author: Dhrions
 Version 1.0.0, 24/01/2024
 :sectnums:
-:toc:
+
 :toclevels: 5
 :toc-title: Sommaire
 :icons: font

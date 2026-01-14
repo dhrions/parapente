@@ -2,7 +2,7 @@
 // Document attributes
 :sectnums:
 :sectnumlevels: 2
-:toc:
+
 :toc-title: Table des matières
 // Variables
 :url-wiki: https://fr.wikipedia.org/wiki
