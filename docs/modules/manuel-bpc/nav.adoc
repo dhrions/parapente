@@ -1,0 +1,6 @@
+* xref:index.adoc[Manuel BPC]
+** xref:index.adoc#_questions_ouvertes[Questions ouvertes]
+** xref:index.adoc#_rappels[Rappels]
+** xref:index.adoc#_compléments[Compléments]
+** xref:index.adoc#_suppléments[Suppléments]
+** xref:index.adoc#_glossaire[Glossaire]
