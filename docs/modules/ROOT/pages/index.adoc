@@ -7,7 +7,7 @@ Cette documentation contient des ressources pour les pilotes de parapente, des d
 
 == Contenu disponible
 
-=== xref:manuel-bpc::index.adoc[Manuel de préparation au brevet de pilote confirmé]
+=== xref:manuel-bpc:index.adoc[Manuel de préparation au brevet de pilote confirmé]
 
 Manuel de révision pour la préparation au brevet de pilote confirmé (BPC), incluant :
 
@@ -15,14 +15,14 @@ Manuel de révision pour la préparation au brevet de pilote confirmé (BPC), in
 * Rappels théoriques
 * Glossaire complet des termes techniques
 
-=== xref:methode-meteo::index.adoc[Méthode d'analyse météorologique]
+=== xref:methode-meteo:index.adoc[Méthode d'analyse météorologique]
 
 Guide complet sur l'analyse météorologique pour le parapente :
 
 * Les 5 échelles météorologiques
 * Les 4 phénomènes météorologiques à étudier
 * Méthode d'analyse détaillée (a priori et in situ)
-* xref:methode-meteo::example-puy-de-dome.adoc[Exemple pratique : Vol au Puy de Dôme]
+* xref:methode-meteo:example-puy-de-dome.adoc[Exemple pratique : Vol au Puy de Dôme]
 * Sites et outils recommandés
 
 == Contribution
