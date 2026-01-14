@@ -1,0 +1,17 @@
+{
+  "name": "parapente-docs",
+  "version": "1.0.0",
+  "description": "Documentation Antora pour le parapente",
+  "scripts": {
+    "docs": "cd docs && npx antora antora-playbook.yml",
+    "docs:clean": "rm -rf docs/build/",
+    "docs:rebuild": "npm run docs:clean && npm run docs"
+  },
+  "keywords": [
+    "parapente",
+    "documentation",
+    "antora"
+  ],
+  "author": "Dhrions",
+  "license": "MIT"
+}
