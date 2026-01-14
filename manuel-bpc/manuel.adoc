@@ -13,7 +13,7 @@
 
 === Mécanique du vol et aérodynamique
 
-==== Quelles vont être les conséquences, en termes de capacité de vol de votre aile, d’un gradient de vent à l’atterrissage (schéma et explications) ? Quels types de manœuvres éviterez-vous et mettrez-vous en place et pourquoi ?
+==== Quelles sont les conséquences, en termes de capacité de vol de votre aile, d’un gradient de vent à l’atterrissage (schéma et explications) ? Quels types de manœuvres peut-on éviter ? Au contraire, lesquelles sont à privilégier ?
 
 . Définition du gradient du vent à l’atterrissage
 +
