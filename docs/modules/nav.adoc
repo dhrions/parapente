@@ -1,8 +1,8 @@
-* xref:ROOT:index.adoc[Accueil]
+* 🏠 xref:ROOT:index.adoc[Accueil]
 
 .Manuel BPC
-* xref:manuel-bpc:index.adoc[Manuel de préparation au BPC]
+* 📚 xref:manuel-bpc:index.adoc[Manuel de préparation au BPC]
 
 .Méthode d'analyse météo
-* xref:methode-meteo:index.adoc[Guide d'analyse météorologique]
-* xref:methode-meteo:example-puy-de-dome.adoc[Exemple : Puy de Dôme]
+* ☁️ xref:methode-meteo:index.adoc[Guide d'analyse météorologique]
+* ⛰️ xref:methode-meteo:example-puy-de-dome.adoc[Exemple : Puy de Dôme]
