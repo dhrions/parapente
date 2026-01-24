@@ -1,0 +1,65 @@
+name: Build and Deploy Antora Documentation
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**'
+      - '.gitea/workflows/docs.yml'
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: docs-deploy
+    container:
+      volumes:
+        - /home/dockeradmin/docker/nginx-docs/html:/deploy
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Antora
+        run: npm install -g @antora/cli @antora/site-generator
+
+      - name: Build documentation
+        working-directory: docs
+        run: antora --fetch antora-playbook.yml
+
+      - name: Deploy documentation
+        run: |
+          echo "Deploying documentation..."
+
+          # Copy shared assets (CSS, JS, fonts) to root
+          cp -r docs/build/_/ /deploy/dhrions/_/
+          chmod -R 755 /deploy/dhrions/_/
+
+          # Deploy component docs
+          rm -rf /deploy/dhrions/parapente
+          mkdir -p /deploy/dhrions/parapente
+          cp -r docs/build/parapente/* /deploy/dhrions/parapente/
+
+          # Create redirect index.html
+          cat > /deploy/dhrions/parapente/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="utf-8">
+            <meta http-equiv="refresh" content="0; url=main/index.html">
+            <title>Redirecting...</title>
+          </head>
+          <body>
+            <p>Redirecting to <a href="main/index.html">documentation</a>...</p>
+          </body>
+          </html>
+          EOF
+          chmod -R 755 /deploy/dhrions/parapente
+          echo "Deployment complete!"
+          ls -la /deploy/dhrions/parapente/
